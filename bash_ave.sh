@@ -3,17 +3,38 @@
 # Bash Auto Video Encoder -- Adobe Premiere CC 2018 Compliant
 #
 
-cd /home/mrghorm/bash_ave_r710
+# TODO:  Turn this into a run flag later
+# Set this command to 1 to run in verbose mode.  NOTE:  Verbose mode is still a work in progress!
+verbose=1;
 
-# IN_DIR="RAW_VIDEOS/"
-# OUT_DIR="ENCODED_VIDEOS/"
-# FAILED_DIR="ENCODE_FAIL/"
+current_dir=$(pwd);
+
+test $verbose -eq 1 && echo "Current working directory set to $current_dir"
+
+#Note:  Override the above command with your own directory for safety
+#current_dir=/home/yourusername/bash_ave/
+
+#cd /home/mrghorm/bash_ave_r710
 
 # Establishes working directories
 	file_in_dir="RAW_FOOTAGE"
 	file_out_dir="TO_REVIEW"
 	file_encode_dir="ENCODED_FOOTAGE"
 	file_failed_dir="FAILED"
+
+# Test the directories to make sure they exist...  if not, then exit.
+test $verbose -eq 1 && echo "Testing for $file_in_dir..."
+(test -d "$file_in_dir/" && echo "Directory successfully found...") || echo "Directory not found!" &&  exit 1;
+test $verbose -eq 1 && echo "Testing for $file_out_dir..."
+(test -d "$file_out_dir/" && echo "Directory successfully found...") || echo "Directory not found!" && exit 1;
+test $verbose -eq 1 && echo "Testing for $file_encode_dir..."
+(test -d "$file_encode_dir/" && echo "Directory successfully found...") || echo "Directory not found!" &&  exit 1;
+test $verbose -eq 1 && echo "Testing for $file_failed_dir..."
+(test -d "$file_failed_dir/" && echo "Directory successfully found...") || echo "Directory not found!" &&  exit 1;
+
+echo "Oh no it didn't exit..."
+exit
+
 
 # Echos arg1 out to console with colors enabled
 #	while copying output to designated output file with timestamp attached
