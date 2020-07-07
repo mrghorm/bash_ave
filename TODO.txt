@@ -8,4 +8,5 @@ TODO List for bash ave:
 2.  Set up more support for verbose mode.
 3.  Set up support for flags (-v for verbose)
 
-4.  Kiss my wife, because I'm showing this to her as an example.
+COMPLETE  4.  Kiss my wife, because I'm showing this to her as an example.
+
