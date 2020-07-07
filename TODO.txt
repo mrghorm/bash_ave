@@ -1,0 +1,10 @@
+TODO List for bash ave:
+
+1.  Set up sqlite3 database template
+  a.  Currently, there's no sqlite3 database that has been uploaded to git
+      and so there's nothing for the default bash_ave.sh script to send data
+      to.
+
+2.  Set up more support for verbose mode.
+3.  Set up support for flags (-v for verbose)
+
