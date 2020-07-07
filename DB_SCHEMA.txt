@@ -1,0 +1,33 @@
+CREATE TABLE AVE_Log1 (id INTEGER PRIMARY KEY, FileName TEXT, StartTime INTEGER, EndTime INTEGER, EncodeSeconds INTEGER, StartSize INTEGER, EndSize INTEGER, HandBrakeExitCode INTEGER, MvExitCode INTEGER);
+CREATE TABLE PYTEST(id INTEGER PRIMARY KEY, text TEXT);
+CREATE TABLE IF NOT EXISTS "AVE_Temps" (
+"id"INTEGER,
+"Time"INTEGER,
+"Core0_0_Temp"INTEGER,
+"Core0_1_Temp"INTEGER,
+"Core0_2_Temp"INTEGER,
+"Core0_3_Temp"INTEGER,
+"Core0_4_Temp"INTEGER,
+"Core0_5_Temp"INTEGER,
+"Core1_0_Temp"INTEGER,
+"Core1_1_Temp"INTEGER,
+"Core1_2_Temp"INTEGER,
+"Core1_3_Temp"INTEGER,
+"Core1_4_Temp"INTEGER,
+"Core1_5_Temp"INTEGER,
+"Usage_Total"INTEGER,
+"Core0_0_Usage"INTEGER,
+"Core0_1_Usage"INTEGER,
+"Core0_2_Usage"INTEGER,
+"Core0_3_Usage"INTEGER,
+"Core0_4_Usage"INTEGER,
+"Core0_5_Usage"INTEGER,
+"Core1_0_Usage"INTEGER,
+"Core1_1_Usage"INTEGER,
+"Core1_2_Usage"INTEGER,
+"Core1_3_Usage"INTEGER,
+"Core1_4_Usage"INTEGER,
+"Core1_5_Usage"INTEGER,
+PRIMARY KEY("id")
+);
+

@@ -1,0 +1,2014 @@
+[2019-08-25_09:22:53] Starting bash auto video encoder
+[2019-08-25_09:22:53] No more files to encode
+[2019-08-25_09:37:11] Starting bash auto video encoder
+[2019-08-25_09:37:11] Files in directory does not exist!
+[2019-08-25_09:37:21] Starting bash auto video encoder
+[2019-08-25_09:37:21] Files in directory does not exist!
+[2019-08-25_09:38:50] Starting bash auto video encoder
+[2019-08-25_09:38:50] FILES_IN directory does not exist!
+[2019-08-25_09:58:50] Starting bash auto video encoder
+[2019-08-25_09:58:50] 
+
+[2019-08-25_09:58:50] -------------------------------------
+[2019-08-25_09:58:50] Attempting to encode [33m2018-05-14 21-19-49.mp4[39m
+[2019-08-25_09:58:51] Filesize is [33mError[39m
+[2019-08-25_09:59:20] ctrl-C pressed: killing program
+[2019-08-25_10:01:39] Starting bash auto video encoder
+[2019-08-25_10:01:39] 
+
+[2019-08-25_10:01:39] -------------------------------------
+[2019-08-25_10:01:39] Attempting to encode [33m2018-05-14 21-19-49.mp4[39m
+[2019-08-25_10:01:39] Filesize is [33m37.10 MB[39m
+[2019-08-25_10:07:33] [32m2018-05-14 21-19-49.mp4[39m was successfully encoded and moved
+[2019-08-25_10:07:33] File is [32m96.00%%[39m of original file at [32m35.97 MB[39m
+[2019-08-25_10:07:33] Seconds to encode: 354
+[2019-08-25_10:07:33] 
+
+[2019-08-25_11:23:58] Starting bash auto video encoder
+[2019-08-25_11:23:58] 
+
+[2019-08-25_11:23:58] -------------------------------------
+[2019-08-25_11:23:58] Attempting to encode [33m12018-05-14 21-21-37.mp4[39m
+[2019-08-25_11:23:58] Filesize is [33m84.94 MB[39m
+[2019-08-25_11:37:38] [32m12018-05-14 21-21-37.mp4[39m was successfully encoded and moved
+[2019-08-25_11:37:38] File is [32m98.00%%[39m of original file at [32m83.97 MB[39m
+[2019-08-25_11:37:38] Seconds to encode: 820
+[2019-08-25_11:37:38] 
+
+[2019-08-25_12:49:14] Starting bash auto video encoder
+[2019-08-25_12:49:14] 
+
+[2019-08-25_12:49:14] -------------------------------------
+[2019-08-25_12:49:14] Attempting to encode [33m22018-05-14 21-19-49.mp4[39m
+[2019-08-25_12:49:14] Filesize is [33m37.10 MB[39m
+[2019-08-25_15:31:27] Starting bash auto video encoder
+[2019-08-25_15:31:27] 
+
+[2019-08-25_15:31:27] -------------------------------------
+[2019-08-25_15:31:27] Attempting to encode [33mCounter-strike  Global Offensive 04.08.2017 - 22.14.54.02.mp4[39m
+[2019-08-25_15:31:27] Filesize is [33m519.72 MB[39m
+[2019-08-25_15:44:00] [32mCounter-strike  Global Offensive 04.08.2017 - 22.14.54.02.mp4[39m was successfully encoded and moved
+[2019-08-25_15:44:00] File is [32m20.00%%[39m of original file at [32m107.30 MB[39m
+[2019-08-25_15:44:00] Seconds to encode: 753
+[2019-08-25_15:44:00] 
+
+[2019-08-25_15:44:00] 
+
+[2019-08-25_15:44:00] -------------------------------------
+[2019-08-25_15:44:00] Attempting to encode [33mCounter-strike  Global Offensive 04.08.2017 - 22.36.59.04.DVR.mp4[39m
+[2019-08-25_15:44:00] Filesize is [33m1.28 GB[39m
+[2019-08-25_16:10:35] [32mCounter-strike  Global Offensive 04.08.2017 - 22.36.59.04.DVR.mp4[39m was successfully encoded and moved
+[2019-08-25_16:10:35] File is [32m14.00%%[39m of original file at [32m186.75 MB[39m
+[2019-08-25_16:10:35] Seconds to encode: 1595
+[2019-08-25_16:10:35] 
+
+[2019-08-25_16:10:35] 
+
+[2019-08-25_16:10:35] -------------------------------------
+[2019-08-25_16:10:35] Attempting to encode [33mCounter-strike  Global Offensive 04.08.2017 - 23.06.48.07.DVR.mp4[39m
+[2019-08-25_16:10:35] Filesize is [33m1.65 GB[39m
+[2019-08-25_16:48:52] [32mCounter-strike  Global Offensive 04.08.2017 - 23.06.48.07.DVR.mp4[39m was successfully encoded and moved
+[2019-08-25_16:48:52] File is [32m17.00%%[39m of original file at [32m288.58 MB[39m
+[2019-08-25_16:48:52] Seconds to encode: 2297
+[2019-08-25_16:48:52] 
+
+[2019-11-23_15:43:06] Starting bash auto video encoder
+[2019-11-23_15:43:06] 
+
+[2019-11-23_15:43:06] -------------------------------------
+[2019-11-23_15:43:06] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 22.50.25.03.DVR.mp4[39m
+[2019-11-23_15:43:06] Filesize is [33m650.21 MB[39m
+[2019-11-23_15:58:00] [32mCounter-strike  Global Offensive 05.23.2017 - 22.50.25.03.DVR.mp4[39m was successfully encoded and moved
+[2019-11-23_15:58:01] File is [32m11.00%%[39m of original file at [32m76.57 MB[39m
+[2019-11-23_15:58:01] Seconds to encode: 895
+[2019-11-23_15:58:01] 
+
+[2019-11-23_15:58:01] 
+
+[2019-11-23_15:58:01] -------------------------------------
+[2019-11-23_15:58:01] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 22.54.02.06.DVR.mp4[39m
+[2019-11-23_15:58:01] Filesize is [33m647.52 MB[39m
+[2019-11-23_16:13:40] [32mCounter-strike  Global Offensive 05.23.2017 - 22.54.02.06.DVR.mp4[39m was successfully encoded and moved
+[2019-11-23_16:13:40] File is [32m10.00%%[39m of original file at [32m70.11 MB[39m
+[2019-11-23_16:13:40] Seconds to encode: 939
+[2019-11-23_16:13:40] 
+
+[2019-11-23_16:13:40] 
+
+[2019-11-23_16:13:40] -------------------------------------
+[2019-11-23_16:13:40] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 22.59.36.09.DVR.mp4[39m
+[2019-11-23_16:13:40] Filesize is [33m697.72 MB[39m
+[2019-11-23_16:32:18] [32mCounter-strike  Global Offensive 05.23.2017 - 22.59.36.09.DVR.mp4[39m was successfully encoded and moved
+[2019-11-23_16:32:18] File is [32m14.00%%[39m of original file at [32m98.27 MB[39m
+[2019-11-23_16:32:18] Seconds to encode: 1118
+[2019-11-23_16:32:19] 
+
+[2019-11-23_16:32:19] 
+
+[2019-11-23_16:32:19] -------------------------------------
+[2019-11-23_16:32:19] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.02.48.12.DVR.mp4[39m
+[2019-11-23_16:32:19] Filesize is [33m711.78 MB[39m
+[2019-11-23_16:50:09] [32mCounter-strike  Global Offensive 05.23.2017 - 23.02.48.12.DVR.mp4[39m was successfully encoded and moved
+[2019-11-23_16:50:09] File is [32m12.00%%[39m of original file at [32m89.16 MB[39m
+[2019-11-23_16:50:09] Seconds to encode: 1070
+[2019-11-23_16:50:09] 
+
+[2019-11-23_16:50:09] 
+
+[2019-11-23_16:50:09] -------------------------------------
+[2019-11-23_16:50:09] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4[39m
+[2019-11-23_16:50:09] Filesize is [33m508.03 MB[39m
+[2019-11-23_16:56:34] ctrl-C pressed: killing program
+[2019-12-07_11:24:27] Starting bash auto video encoder
+[2019-12-07_11:24:28] 
+
+[2019-12-07_11:24:28] -------------------------------------
+[2019-12-07_11:24:28] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4[39m
+[2019-12-07_11:24:28] Filesize is [33m508.03 MB[39m
+[2019-12-07_11:24:52] ctrl-C pressed: killing program
+[2019-12-07_11:28:17] Starting bash auto video encoder
+[2019-12-07_11:28:17] 
+
+[2019-12-07_11:28:17] -------------------------------------
+[2019-12-07_11:28:17] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4[39m
+[2019-12-07_11:28:17] Filesize is [33m508.03 MB[39m
+[2019-12-07_11:28:32] ctrl-C pressed: killing program
+[2019-12-07_11:31:42] Starting bash auto video encoder
+[2019-12-07_11:31:42] 
+
+[2019-12-07_11:31:42] -------------------------------------
+[2019-12-07_11:31:42] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4[39m
+[2019-12-07_11:31:42] Filesize is [33m508.03 MB[39m
+[2019-12-07_11:42:43] [32mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_11:42:43] File is [32m9.00%%[39m of original file at [32m48.25 MB[39m
+[2019-12-07_11:42:43] Seconds to encode: 661
+[2019-12-07_11:42:43] 
+
+[2019-12-07_11:42:43] 
+
+[2019-12-07_11:42:43] -------------------------------------
+[2019-12-07_11:42:43] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.20.16.18.DVR.mp4[39m
+[2019-12-07_11:42:43] Filesize is [33m737.81 MB[39m
+[2019-12-07_12:05:56] [32mCounter-strike  Global Offensive 05.23.2017 - 23.20.16.18.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_12:05:56] File is [32m29.00%%[39m of original file at [32m214.76 MB[39m
+[2019-12-07_12:05:56] Seconds to encode: 1393
+[2019-12-07_12:05:58] 
+
+[2019-12-07_12:05:58] 
+
+[2019-12-07_12:05:58] -------------------------------------
+[2019-12-07_12:05:58] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.36.49.21.DVR.mp4[39m
+[2019-12-07_12:05:58] Filesize is [33m726.93 MB[39m
+[2019-12-07_12:26:31] [32mCounter-strike  Global Offensive 05.23.2017 - 23.36.49.21.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_12:26:31] File is [32m23.00%%[39m of original file at [32m171.87 MB[39m
+[2019-12-07_12:26:31] Seconds to encode: 1233
+[2019-12-07_12:26:32] 
+
+[2019-12-07_12:26:32] 
+
+[2019-12-07_12:26:32] -------------------------------------
+[2019-12-07_12:26:32] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.41.34.24.DVR.mp4[39m
+[2019-12-07_12:26:32] Filesize is [33m713.58 MB[39m
+[2019-12-07_12:46:11] [32mCounter-strike  Global Offensive 05.23.2017 - 23.41.34.24.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_12:46:11] File is [32m21.00%%[39m of original file at [32m156.15 MB[39m
+[2019-12-07_12:46:11] Seconds to encode: 1179
+[2019-12-07_12:46:12] 
+
+[2019-12-07_12:46:12] 
+
+[2019-12-07_12:46:12] -------------------------------------
+[2019-12-07_12:46:12] Attempting to encode [33mCounter-strike  Global Offensive 05.24.2017 - 00.21.08.27.DVR.mp4[39m
+[2019-12-07_12:46:12] Filesize is [33m670.34 MB[39m
+[2019-12-07_13:03:29] [32mCounter-strike  Global Offensive 05.24.2017 - 00.21.08.27.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_13:03:29] File is [32m18.00%%[39m of original file at [32m124.35 MB[39m
+[2019-12-07_13:03:29] Seconds to encode: 1037
+[2019-12-07_13:03:30] 
+
+[2019-12-07_13:03:30] 
+
+[2019-12-07_13:03:30] -------------------------------------
+[2019-12-07_13:03:30] Attempting to encode [33mCounter-strike  Global Offensive 05.24.2017 - 00.36.28.30.DVR.mp4[39m
+[2019-12-07_13:03:30] Filesize is [33m399.79 MB[39m
+[2019-12-07_13:11:05] [32mCounter-strike  Global Offensive 05.24.2017 - 00.36.28.30.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_13:11:05] File is [32m9.00%%[39m of original file at [32m39.70 MB[39m
+[2019-12-07_13:11:05] Seconds to encode: 455
+[2019-12-07_13:11:05] 
+
+[2019-12-07_13:11:05] 
+
+[2019-12-07_13:11:05] -------------------------------------
+[2019-12-07_13:11:05] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.27.37.23.DVR.mp4[39m
+[2019-12-07_13:11:05] Filesize is [33m461.31 MB[39m
+[2019-12-07_13:23:31] [32mCounter-strike  Global Offensive 06.04.2017 - 22.27.37.23.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_13:23:31] File is [32m21.00%%[39m of original file at [32m99.33 MB[39m
+[2019-12-07_13:23:31] Seconds to encode: 746
+[2019-12-07_13:23:32] 
+
+[2019-12-07_13:23:32] 
+
+[2019-12-07_13:23:32] -------------------------------------
+[2019-12-07_13:23:32] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.33.09.26.DVR.mp4[39m
+[2019-12-07_13:23:32] Filesize is [33m744.84 MB[39m
+[2019-12-07_13:44:26] [32mCounter-strike  Global Offensive 06.04.2017 - 22.33.09.26.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_13:44:26] File is [32m24.00%%[39m of original file at [32m180.91 MB[39m
+[2019-12-07_13:44:26] Seconds to encode: 1254
+[2019-12-07_13:44:27] 
+
+[2019-12-07_13:44:27] 
+
+[2019-12-07_13:44:27] -------------------------------------
+[2019-12-07_13:44:27] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.35.18.29.DVR.mp4[39m
+[2019-12-07_13:44:27] Filesize is [33m726.54 MB[39m
+[2019-12-07_14:03:57] [32mCounter-strike  Global Offensive 06.04.2017 - 22.35.18.29.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_14:03:57] File is [32m22.00%%[39m of original file at [32m163.62 MB[39m
+[2019-12-07_14:03:57] Seconds to encode: 1170
+[2019-12-07_14:03:58] 
+
+[2019-12-07_14:03:58] 
+
+[2019-12-07_14:03:58] -------------------------------------
+[2019-12-07_14:03:58] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.40.42.32.DVR.mp4[39m
+[2019-12-07_14:03:58] Filesize is [33m646.20 MB[39m
+[2019-12-07_14:20:05] [32mCounter-strike  Global Offensive 06.04.2017 - 22.40.42.32.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_14:20:05] File is [32m20.00%%[39m of original file at [32m129.47 MB[39m
+[2019-12-07_14:20:05] Seconds to encode: 967
+[2019-12-07_14:20:05] 
+
+[2019-12-07_14:20:05] 
+
+[2019-12-07_14:20:05] -------------------------------------
+[2019-12-07_14:20:05] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.42.44.37.DVR.mp4[39m
+[2019-12-07_14:20:05] Filesize is [33m302.89 MB[39m
+[2019-12-07_14:27:22] [32mCounter-strike  Global Offensive 06.04.2017 - 22.42.44.37.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_14:27:22] File is [32m18.00%%[39m of original file at [32m56.57 MB[39m
+[2019-12-07_14:27:22] Seconds to encode: 437
+[2019-12-07_14:27:22] 
+
+[2019-12-07_14:27:22] 
+
+[2019-12-07_14:27:22] -------------------------------------
+[2019-12-07_14:27:22] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.47.16.40.DVR.mp4[39m
+[2019-12-07_14:27:22] Filesize is [33m569.18 MB[39m
+[2019-12-07_14:42:05] [32mCounter-strike  Global Offensive 06.04.2017 - 22.47.16.40.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_14:42:05] File is [32m19.00%%[39m of original file at [32m109.70 MB[39m
+[2019-12-07_14:42:05] Seconds to encode: 883
+[2019-12-07_14:42:06] 
+
+[2019-12-07_14:42:06] 
+
+[2019-12-07_14:42:06] -------------------------------------
+[2019-12-07_14:42:06] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.51.59.43.DVR.mp4[39m
+[2019-12-07_14:42:06] Filesize is [33m735.45 MB[39m
+[2019-12-07_15:01:25] [32mCounter-strike  Global Offensive 06.04.2017 - 22.51.59.43.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_15:01:27] File is [32m22.00%%[39m of original file at [32m167.98 MB[39m
+[2019-12-07_15:01:27] Seconds to encode: 1161
+[2019-12-07_15:01:27] 
+
+[2019-12-07_15:01:27] 
+
+[2019-12-07_15:01:27] -------------------------------------
+[2019-12-07_15:01:27] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.00.33.46.DVR.mp4[39m
+[2019-12-07_15:01:27] Filesize is [33m733.74 MB[39m
+[2019-12-07_15:21:25] [32mCounter-strike  Global Offensive 06.04.2017 - 23.00.33.46.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_15:21:25] File is [32m26.00%%[39m of original file at [32m195.77 MB[39m
+[2019-12-07_15:21:25] Seconds to encode: 1198
+[2019-12-07_15:21:26] 
+
+[2019-12-07_15:21:26] 
+
+[2019-12-07_15:21:26] -------------------------------------
+[2019-12-07_15:21:26] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.01.18.49.DVR.mp4[39m
+[2019-12-07_15:21:26] Filesize is [33m271.15 MB[39m
+[2019-12-07_15:28:27] [32mCounter-strike  Global Offensive 06.04.2017 - 23.01.18.49.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_15:28:27] File is [32m22.00%%[39m of original file at [32m61.98 MB[39m
+[2019-12-07_15:28:27] Seconds to encode: 421
+[2019-12-07_15:28:28] 
+
+[2019-12-07_15:28:28] 
+
+[2019-12-07_15:28:28] -------------------------------------
+[2019-12-07_15:28:28] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.07.12.52.DVR.mp4[39m
+[2019-12-07_15:28:28] Filesize is [33m713.84 MB[39m
+[2019-12-07_15:48:38] [32mCounter-strike  Global Offensive 06.04.2017 - 23.07.12.52.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_15:48:38] File is [32m23.00%%[39m of original file at [32m167.73 MB[39m
+[2019-12-07_15:48:38] Seconds to encode: 1210
+[2019-12-07_15:48:39] 
+
+[2019-12-07_15:48:39] 
+
+[2019-12-07_15:48:39] -------------------------------------
+[2019-12-07_15:48:39] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.07.59.55.DVR.mp4[39m
+[2019-12-07_15:48:39] Filesize is [33m252.58 MB[39m
+[2019-12-07_15:54:37] [32mCounter-strike  Global Offensive 06.04.2017 - 23.07.59.55.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_15:54:37] File is [32m16.00%%[39m of original file at [32m40.50 MB[39m
+[2019-12-07_15:54:37] Seconds to encode: 358
+[2019-12-07_15:54:38] 
+
+[2019-12-07_15:54:38] 
+
+[2019-12-07_15:54:38] -------------------------------------
+[2019-12-07_15:54:38] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.10.14.58.DVR.mp4[39m
+[2019-12-07_15:54:38] Filesize is [33m488.91 MB[39m
+[2019-12-07_16:03:28] [32mCounter-strike  Global Offensive 06.04.2017 - 23.10.14.58.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_16:03:29] File is [32m10.00%%[39m of original file at [32m49.22 MB[39m
+[2019-12-07_16:03:29] Seconds to encode: 531
+[2019-12-07_16:03:29] 
+
+[2019-12-07_16:03:29] 
+
+[2019-12-07_16:03:29] -------------------------------------
+[2019-12-07_16:03:29] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.16.41.61.DVR.mp4[39m
+[2019-12-07_16:03:29] Filesize is [33m698.44 MB[39m
+[2019-12-07_16:19:16] [32mCounter-strike  Global Offensive 06.04.2017 - 23.16.41.61.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_16:19:16] File is [32m19.00%%[39m of original file at [32m137.85 MB[39m
+[2019-12-07_16:19:16] Seconds to encode: 947
+[2019-12-07_16:19:17] 
+
+[2019-12-07_16:19:17] 
+
+[2019-12-07_16:19:17] -------------------------------------
+[2019-12-07_16:19:17] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.19.17.64.DVR.mp4[39m
+[2019-12-07_16:19:17] Filesize is [33m616.00 MB[39m
+[2019-12-07_16:33:51] [32mCounter-strike  Global Offensive 06.04.2017 - 23.19.17.64.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_16:33:51] File is [32m17.00%%[39m of original file at [32m109.12 MB[39m
+[2019-12-07_16:33:51] Seconds to encode: 874
+[2019-12-07_16:33:51] 
+
+[2019-12-07_16:33:51] 
+
+[2019-12-07_16:33:51] -------------------------------------
+[2019-12-07_16:33:51] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.20.40.67.DVR.mp4[39m
+[2019-12-07_16:33:52] Filesize is [33m428.13 MB[39m
+[2019-12-07_16:45:27] [32mCounter-strike  Global Offensive 06.04.2017 - 23.20.40.67.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_16:45:27] File is [32m22.00%%[39m of original file at [32m96.01 MB[39m
+[2019-12-07_16:45:27] Seconds to encode: 695
+[2019-12-07_16:45:27] 
+
+[2019-12-07_16:45:27] 
+
+[2019-12-07_16:45:27] -------------------------------------
+[2019-12-07_16:45:28] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.21.44.70.DVR.mp4[39m
+[2019-12-07_16:45:28] Filesize is [33m304.97 MB[39m
+[2019-12-07_16:52:35] [32mCounter-strike  Global Offensive 06.04.2017 - 23.21.44.70.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_16:52:35] File is [32m15.00%%[39m of original file at [32m47.45 MB[39m
+[2019-12-07_16:52:35] Seconds to encode: 427
+[2019-12-07_16:52:36] 
+
+[2019-12-07_16:52:36] 
+
+[2019-12-07_16:52:36] -------------------------------------
+[2019-12-07_16:52:36] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.33.37.73.DVR.mp4[39m
+[2019-12-07_16:52:36] Filesize is [33m725.56 MB[39m
+[2019-12-07_17:12:48] [32mCounter-strike  Global Offensive 06.04.2017 - 23.33.37.73.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_17:12:48] File is [32m32.00%%[39m of original file at [32m237.62 MB[39m
+[2019-12-07_17:12:48] Seconds to encode: 1212
+[2019-12-07_17:12:48] 
+
+[2019-12-07_17:12:48] 
+
+[2019-12-07_17:12:48] -------------------------------------
+[2019-12-07_17:12:48] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.34.05.76.DVR.mp4[39m
+[2019-12-07_17:12:48] Filesize is [33m171.18 MB[39m
+[2019-12-07_17:17:42] [32mCounter-strike  Global Offensive 06.04.2017 - 23.34.05.76.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_17:17:42] File is [32m19.00%%[39m of original file at [32m33.62 MB[39m
+[2019-12-07_17:17:42] Seconds to encode: 294
+[2019-12-07_17:17:42] 
+
+[2019-12-07_17:17:42] 
+
+[2019-12-07_17:17:42] -------------------------------------
+[2019-12-07_17:17:42] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.40.35.79.DVR.mp4[39m
+[2019-12-07_17:17:42] Filesize is [33m661.99 MB[39m
+[2019-12-07_17:35:08] [32mCounter-strike  Global Offensive 06.04.2017 - 23.40.35.79.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_17:35:08] File is [32m19.00%%[39m of original file at [32m128.95 MB[39m
+[2019-12-07_17:35:08] Seconds to encode: 1046
+[2019-12-07_17:35:08] 
+
+[2019-12-07_17:35:08] 
+
+[2019-12-07_17:35:08] -------------------------------------
+[2019-12-07_17:35:08] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.44.38.82.DVR.mp4[39m
+[2019-12-07_17:35:08] Filesize is [33m634.13 MB[39m
+[2019-12-07_17:52:59] [32mCounter-strike  Global Offensive 06.04.2017 - 23.44.38.82.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_17:52:59] File is [32m36.00%%[39m of original file at [32m234.07 MB[39m
+[2019-12-07_17:52:59] Seconds to encode: 1071
+[2019-12-07_17:52:59] 
+
+[2019-12-07_17:52:59] 
+
+[2019-12-07_17:52:59] -------------------------------------
+[2019-12-07_17:52:59] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.45.16.85.DVR.mp4[39m
+[2019-12-07_17:52:59] Filesize is [33m212.15 MB[39m
+[2019-12-07_17:59:03] [32mCounter-strike  Global Offensive 06.04.2017 - 23.45.16.85.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_17:59:04] File is [32m33.00%%[39m of original file at [32m71.43 MB[39m
+[2019-12-07_17:59:04] Seconds to encode: 365
+[2019-12-07_17:59:04] 
+
+[2019-12-07_17:59:04] 
+
+[2019-12-07_17:59:04] -------------------------------------
+[2019-12-07_17:59:04] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.47.13.88.DVR.mp4[39m
+[2019-12-07_17:59:04] Filesize is [33m708.04 MB[39m
+[2019-12-07_18:20:17] [32mCounter-strike  Global Offensive 06.04.2017 - 23.47.13.88.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_18:20:17] File is [32m33.00%%[39m of original file at [32m237.65 MB[39m
+[2019-12-07_18:20:17] Seconds to encode: 1273
+[2019-12-07_18:20:18] 
+
+[2019-12-07_18:20:18] 
+
+[2019-12-07_18:20:18] -------------------------------------
+[2019-12-07_18:20:18] Attempting to encode [33mCounter-strike  Global Offensive 06.05.2017 - 00.15.17.91.DVR.mp4[39m
+[2019-12-07_18:20:18] Filesize is [33m646.16 MB[39m
+[2019-12-07_18:36:01] [32mCounter-strike  Global Offensive 06.05.2017 - 00.15.17.91.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_18:36:01] File is [32m17.00%%[39m of original file at [32m110.02 MB[39m
+[2019-12-07_18:36:01] Seconds to encode: 943
+[2019-12-07_18:36:03] 
+
+[2019-12-07_18:36:03] 
+
+[2019-12-07_18:36:03] -------------------------------------
+[2019-12-07_18:36:03] Attempting to encode [33mCounter-strike  Global Offensive 06.05.2017 - 00.16.28.94.DVR.mp4[39m
+[2019-12-07_18:36:03] Filesize is [33m411.88 MB[39m
+[2019-12-07_18:47:29] [32mCounter-strike  Global Offensive 06.05.2017 - 00.16.28.94.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_18:47:29] File is [32m20.00%%[39m of original file at [32m86.18 MB[39m
+[2019-12-07_18:47:29] Seconds to encode: 686
+[2019-12-07_18:47:30] 
+
+[2019-12-07_18:47:30] 
+
+[2019-12-07_18:47:30] -------------------------------------
+[2019-12-07_18:47:30] Attempting to encode [33mCounter-strike  Global Offensive 06.05.2017 - 00.20.55.97.DVR.mp4[39m
+[2019-12-07_18:47:30] Filesize is [33m691.39 MB[39m
+[2019-12-07_19:04:32] [32mCounter-strike  Global Offensive 06.05.2017 - 00.20.55.97.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_19:04:32] File is [32m15.00%%[39m of original file at [32m109.19 MB[39m
+[2019-12-07_19:04:32] Seconds to encode: 1022
+[2019-12-07_19:04:33] 
+
+[2019-12-07_19:04:33] 
+
+[2019-12-07_19:04:33] -------------------------------------
+[2019-12-07_19:04:33] Attempting to encode [33mCounter-strike  Global Offensive 07.13.2017 - 00.11.03.03.DVR.mp4[39m
+[2019-12-07_19:04:33] Filesize is [33m704.80 MB[39m
+[2019-12-07_19:23:15] [32mCounter-strike  Global Offensive 07.13.2017 - 00.11.03.03.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_19:23:15] File is [32m22.00%%[39m of original file at [32m160.39 MB[39m
+[2019-12-07_19:23:15] Seconds to encode: 1122
+[2019-12-07_19:23:15] 
+
+[2019-12-07_19:23:15] 
+
+[2019-12-07_19:23:15] -------------------------------------
+[2019-12-07_19:23:15] Attempting to encode [33mCounter-strike  Global Offensive 07.13.2017 - 00.13.49.06.DVR.mp4[39m
+[2019-12-07_19:23:15] Filesize is [33m727.85 MB[39m
+[2019-12-07_19:43:01] [32mCounter-strike  Global Offensive 07.13.2017 - 00.13.49.06.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_19:43:01] File is [32m23.00%%[39m of original file at [32m170.99 MB[39m
+[2019-12-07_19:43:01] Seconds to encode: 1186
+[2019-12-07_19:43:01] 
+
+[2019-12-07_19:43:02] 
+
+[2019-12-07_19:43:02] -------------------------------------
+[2019-12-07_19:43:02] Attempting to encode [33mCounter-strike  Global Offensive 07.13.2017 - 00.16.53.09.DVR.mp4[39m
+[2019-12-07_19:43:02] Filesize is [33m725.76 MB[39m
+[2019-12-07_20:03:36] [32mCounter-strike  Global Offensive 07.13.2017 - 00.16.53.09.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_20:03:36] File is [32m23.00%%[39m of original file at [32m170.39 MB[39m
+[2019-12-07_20:03:36] Seconds to encode: 1234
+[2019-12-07_20:03:36] 
+
+[2019-12-07_20:03:36] 
+
+[2019-12-07_20:03:36] -------------------------------------
+[2019-12-07_20:03:36] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.06.50.11.DVR.mp4[39m
+[2019-12-07_20:03:36] Filesize is [33m404.39 MB[39m
+[2019-12-07_20:10:26] [32mCounter-strike  Global Offensive 07.15.2017 - 15.06.50.11.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_20:10:26] File is [32m4.00%%[39m of original file at [32m17.77 MB[39m
+[2019-12-07_20:10:26] Seconds to encode: 410
+[2019-12-07_20:10:27] 
+
+[2019-12-07_20:10:27] 
+
+[2019-12-07_20:10:27] -------------------------------------
+[2019-12-07_20:10:27] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.11.59.14.DVR.mp4[39m
+[2019-12-07_20:10:27] Filesize is [33m629.10 MB[39m
+[2019-12-07_20:20:54] [32mCounter-strike  Global Offensive 07.15.2017 - 15.11.59.14.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_20:20:54] File is [32m4.00%%[39m of original file at [32m26.07 MB[39m
+[2019-12-07_20:20:54] Seconds to encode: 627
+[2019-12-07_20:20:54] 
+
+[2019-12-07_20:20:54] 
+
+[2019-12-07_20:20:54] -------------------------------------
+[2019-12-07_20:20:54] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.27.57.17.DVR.mp4[39m
+[2019-12-07_20:20:54] Filesize is [33m959.79 MB[39m
+[2019-12-07_20:50:31] [32mCounter-strike  Global Offensive 07.15.2017 - 15.27.57.17.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_20:50:31] File is [32m26.00%%[39m of original file at [32m258.27 MB[39m
+[2019-12-07_20:50:31] Seconds to encode: 1777
+[2019-12-07_20:50:31] 
+
+[2019-12-07_20:50:31] 
+
+[2019-12-07_20:50:31] -------------------------------------
+[2019-12-07_20:50:31] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.34.18.20.DVR.mp4[39m
+[2019-12-07_20:50:31] Filesize is [33m929.53 MB[39m
+[2019-12-07_21:19:17] [32mCounter-strike  Global Offensive 07.15.2017 - 15.34.18.20.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_21:19:17] File is [32m27.00%%[39m of original file at [32m254.88 MB[39m
+[2019-12-07_21:19:17] Seconds to encode: 1726
+[2019-12-07_21:19:18] 
+
+[2019-12-07_21:19:18] 
+
+[2019-12-07_21:19:18] -------------------------------------
+[2019-12-07_21:19:18] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.46.29.23.DVR.mp4[39m
+[2019-12-07_21:19:18] Filesize is [33m859.61 MB[39m
+[2019-12-07_21:45:28] [32mCounter-strike  Global Offensive 07.15.2017 - 15.46.29.23.DVR.mp4[39m was successfully encoded and moved
+[2019-12-07_21:45:28] File is [32m19.00%%[39m of original file at [32m165.17 MB[39m
+[2019-12-07_21:45:28] Seconds to encode: 1570
+[2019-12-07_21:45:29] 
+
+[2019-12-07_21:45:29] 
+
+[2019-12-07_21:45:29] -------------------------------------
+[2019-12-07_21:45:29] Attempting to encode [33mCounter-strike  Global Offensive 07.18.2017 - 23.34.47.04.mp4[39m
+[2019-12-07_21:45:29] Filesize is [33m39.14 GB[39m
+[2019-12-07_21:45:30] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2019-12-07_21:45:30] [31mHANDBRAKE FAILURE[39m! Exit code: 2
+[2019-12-07_21:45:30] Moved [31mCounter-strike  Global Offensive 07.18.2017 - 23.34.47.04.mp4[39m to FAILED_DIR
+[2019-12-07_21:45:30] [32mCounter-strike  Global Offensive 07.18.2017 - 23.34.47.04.mp4[39m was successfully encoded and moved
+[2019-12-07_21:45:30] Seconds to encode: 1
+[2019-12-07_21:45:30] 
+
+[2019-12-07_21:45:30] No more files to encode
+[2019-12-13_22:45:14] Starting bash auto video encoder
+[2019-12-13_22:45:15] 
+
+[2019-12-13_22:45:15] -------------------------------------
+[2019-12-13_22:45:15] Attempting to encode [33m2017-03-09 18-59-43.mp4[39m
+[2019-12-13_22:45:15] Filesize is [33m180.50 MB[39m
+[2019-12-13_23:49:11] [32m2017-03-09 18-59-43.mp4[39m was successfully encoded and moved
+[2019-12-13_23:49:11] File is [32m237.00%%[39m of original file at [32m428.65 MB[39m
+[2019-12-13_23:49:11] Seconds to encode: 3836
+[2019-12-13_23:49:12] 
+
+[2019-12-13_23:49:12] 
+
+[2019-12-13_23:49:12] -------------------------------------
+[2019-12-13_23:49:12] Attempting to encode [33m2017-03-09 19-17-31.mp4[39m
+[2019-12-13_23:49:12] Filesize is [33m50.97 MB[39m
+[2019-12-13_23:51:20] [32m2017-03-09 19-17-31.mp4[39m was successfully encoded and moved
+[2019-12-13_23:51:20] File is [32m29.00%%[39m of original file at [32m14.92 MB[39m
+[2019-12-13_23:51:20] Seconds to encode: 128
+[2019-12-13_23:51:20] 
+
+[2019-12-13_23:51:20] 
+
+[2019-12-13_23:51:20] -------------------------------------
+[2019-12-13_23:51:20] Attempting to encode [33m2017-03-09 20-17-04.mp4[39m
+[2019-12-13_23:51:20] Filesize is [33m1.81 MB[39m
+[2019-12-13_23:51:48] [32m2017-03-09 20-17-04.mp4[39m was successfully encoded and moved
+[2019-12-13_23:51:48] File is [32m93.00%%[39m of original file at [32m1.70 MB[39m
+[2019-12-13_23:51:48] Seconds to encode: 28
+[2019-12-13_23:51:49] 
+
+[2019-12-13_23:51:49] 
+
+[2019-12-13_23:51:49] -------------------------------------
+[2019-12-13_23:51:49] Attempting to encode [33m2017-03-10 16-12-18.mkv[39m
+[2019-12-13_23:51:49] Filesize is [33m2.21 MB[39m
+[2019-12-13_23:52:35] [32m2017-03-10 16-12-18.mkv[39m was successfully encoded and moved
+[2019-12-13_23:52:35] File is [32m120.00%%[39m of original file at [32m2.68 MB[39m
+[2019-12-13_23:52:35] Seconds to encode: 46
+[2019-12-13_23:52:35] 
+
+[2019-12-13_23:52:35] 
+
+[2019-12-13_23:52:35] -------------------------------------
+[2019-12-13_23:52:35] Attempting to encode [33m2017-03-13 21-01-19.mp4[39m
+[2019-12-13_23:52:35] Filesize is [33m5.76 MB[39m
+[2019-12-13_23:54:29] [32m2017-03-13 21-01-19.mp4[39m was successfully encoded and moved
+[2019-12-13_23:54:29] File is [32m75.00%%[39m of original file at [32m4.38 MB[39m
+[2019-12-13_23:54:29] Seconds to encode: 114
+[2019-12-13_23:54:29] 
+
+[2019-12-13_23:54:29] 
+
+[2019-12-13_23:54:29] -------------------------------------
+[2019-12-13_23:54:29] Attempting to encode [33m2017-03-13 21-09-59.mp4[39m
+[2019-12-13_23:54:29] Filesize is [33m5.56 GB[39m
+[2019-12-14_00:29:17] ctrl-C pressed: killing program
+[2019-12-14_00:34:12] Starting bash auto video encoder
+[2019-12-14_00:34:12] 
+
+[2019-12-14_00:34:12] -------------------------------------
+[2019-12-14_00:34:12] Attempting to encode [33m2017-03-13 21-09-59.mp4[39m
+[2019-12-14_00:34:12] Filesize is [33m5.56 GB[39m
+[2019-12-14_00:36:50] ctrl-C pressed: killing program
+[2019-12-14_11:56:56] Starting bash auto video encoder
+[2019-12-14_11:56:56] 
+
+[2019-12-14_11:56:56] -------------------------------------
+[2019-12-14_11:56:56] Attempting to encode [33m2017-03-13 21-09-59.mp4[39m
+[2019-12-14_11:56:56] Filesize is [33m5.56 GB[39m
+[2019-12-14_15:26:30] [32m2017-03-13 21-09-59.mp4[39m was successfully encoded and moved
+[2019-12-14_15:26:30] File is [32m34.00%%[39m of original file at [32m1.89 GB[39m
+[2019-12-14_15:26:30] Seconds to encode: 12574
+[2019-12-14_15:26:30] 
+
+[2019-12-14_15:26:30] 
+
+[2019-12-14_15:26:30] -------------------------------------
+[2019-12-14_15:26:30] Attempting to encode [33m2017-03-13 21-39-53.mp4[39m
+[2019-12-14_15:26:30] Filesize is [33m37.88 MB[39m
+[2019-12-14_15:34:17] [32m2017-03-13 21-39-53.mp4[39m was successfully encoded and moved
+[2019-12-14_15:34:17] File is [32m75.00%%[39m of original file at [32m28.78 MB[39m
+[2019-12-14_15:34:17] Seconds to encode: 466
+[2019-12-14_15:34:17] 
+
+[2019-12-14_15:34:17] 
+
+[2019-12-14_15:34:17] -------------------------------------
+[2019-12-14_15:34:17] Attempting to encode [33m2017-03-13 21-50-36.mp4[39m
+[2019-12-14_15:34:17] Filesize is [33m1.08 GB[39m
+[2019-12-14_16:18:35] [32m2017-03-13 21-50-36.mp4[39m was successfully encoded and moved
+[2019-12-14_16:18:35] File is [32m39.00%%[39m of original file at [32m426.56 MB[39m
+[2019-12-14_16:18:35] Seconds to encode: 2658
+[2019-12-14_16:18:35] 
+
+[2019-12-14_16:18:35] 
+
+[2019-12-14_16:18:35] -------------------------------------
+[2019-12-14_16:18:35] Attempting to encode [33m2017-03-13 22-00-07.mp4[39m
+[2019-12-14_16:18:35] Filesize is [33m711.45 MB[39m
+[2019-12-14_16:59:16] [32m2017-03-13 22-00-07.mp4[39m was successfully encoded and moved
+[2019-12-14_16:59:16] File is [32m44.00%%[39m of original file at [32m319.93 MB[39m
+[2019-12-14_16:59:16] Seconds to encode: 2441
+[2019-12-14_16:59:17] 
+
+[2019-12-14_16:59:17] 
+
+[2019-12-14_16:59:17] -------------------------------------
+[2019-12-14_16:59:17] Attempting to encode [33m2017-03-13 22-10-14.mp4[39m
+[2019-12-14_16:59:17] Filesize is [33m269.40 MB[39m
+[2019-12-14_17:05:43] [32m2017-03-13 22-10-14.mp4[39m was successfully encoded and moved
+[2019-12-14_17:05:43] File is [32m42.00%%[39m of original file at [32m115.31 MB[39m
+[2019-12-14_17:05:43] Seconds to encode: 386
+[2019-12-14_17:05:44] 
+
+[2019-12-14_17:05:44] 
+
+[2019-12-14_17:05:44] -------------------------------------
+[2019-12-14_17:05:44] Attempting to encode [33m2017-03-13 22-14-10.mp4[39m
+[2019-12-14_17:05:44] Filesize is [33m2.62 GB[39m
+[2019-12-14_18:05:31] [32m2017-03-13 22-14-10.mp4[39m was successfully encoded and moved
+[2019-12-14_18:05:31] File is [32m41.00%%[39m of original file at [32m1.10 GB[39m
+[2019-12-14_18:05:31] Seconds to encode: 3587
+[2019-12-14_18:05:32] 
+
+[2019-12-14_18:05:32] 
+
+[2019-12-14_18:05:32] -------------------------------------
+[2019-12-14_18:05:32] Attempting to encode [33m2017-03-14 13-49-44.mp4[39m
+[2019-12-14_18:05:32] Filesize is [33m635.79 MB[39m
+[2019-12-14_18:24:28] [32m2017-03-14 13-49-44.mp4[39m was successfully encoded and moved
+[2019-12-14_18:24:28] File is [32m45.00%%[39m of original file at [32m292.08 MB[39m
+[2019-12-14_18:24:28] Seconds to encode: 1136
+[2019-12-14_18:24:29] 
+
+[2019-12-14_18:24:29] 
+
+[2019-12-14_18:24:29] -------------------------------------
+[2019-12-14_18:24:29] Attempting to encode [33m2017-03-14 13-53-26.mp4[39m
+[2019-12-14_18:24:29] Filesize is [33m464.25 MB[39m
+[2019-12-14_18:32:51] ctrl-C pressed: killing program
+[2019-12-14_18:33:22] Starting bash auto video encoder
+[2019-12-14_18:33:22] 
+
+[2019-12-14_18:33:22] -------------------------------------
+[2019-12-14_18:33:22] Attempting to encode [33m2017-03-14 13-53-26.mp4[39m
+[2019-12-14_18:33:22] Filesize is [33m464.25 MB[39m
+[2019-12-14_18:48:38] [32m2017-03-14 13-53-26.mp4[39m was successfully encoded and moved
+[2019-12-14_18:48:38] File is [32m26.00%%[39m of original file at [32m123.13 MB[39m
+[2019-12-14_18:48:38] Seconds to encode: 916
+[2019-12-14_18:48:39] 
+
+[2019-12-14_18:48:39] 
+
+[2019-12-14_18:48:39] -------------------------------------
+[2019-12-14_18:48:39] Attempting to encode [33m2017-03-14 14-33-45.mp4[39m
+[2019-12-14_18:48:39] Filesize is [33m1.52 GB[39m
+[2019-12-14_19:17:59] [32m2017-03-14 14-33-45.mp4[39m was successfully encoded and moved
+[2019-12-14_19:17:59] File is [32m32.00%%[39m of original file at [32m499.93 MB[39m
+[2019-12-14_19:17:59] Seconds to encode: 1760
+[2019-12-14_19:17:59] 
+
+[2019-12-14_19:17:59] 
+
+[2019-12-14_19:17:59] -------------------------------------
+[2019-12-14_19:17:59] Attempting to encode [33m2017-03-14 19-43-46.mp4[39m
+[2019-12-14_19:17:59] Filesize is [33m3.77 GB[39m
+[2019-12-14_20:03:32] [32m2017-03-14 19-43-46.mp4[39m was successfully encoded and moved
+[2019-12-14_20:03:32] File is [32m32.00%%[39m of original file at [32m1.23 GB[39m
+[2019-12-14_20:03:32] Seconds to encode: 2733
+[2019-12-14_20:03:32] 
+
+[2019-12-14_20:03:32] 
+
+[2019-12-14_20:03:32] -------------------------------------
+[2019-12-14_20:03:32] Attempting to encode [33m2017-03-15 15-06-23.mp4[39m
+[2019-12-14_20:03:33] Filesize is [33m265.27 MB[39m
+[2019-12-14_20:03:33] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2019-12-14_20:03:33] [31mHANDBRAKE FAILURE[39m! Exit code: 2
+[2019-12-14_20:03:33] Moved [31m2017-03-15 15-06-23.mp4[39m to FAILED_DIR
+[2019-12-14_20:03:33] [32m2017-03-15 15-06-23.mp4[39m was successfully encoded and moved
+[2019-12-14_20:03:33] Seconds to encode: 0
+[2019-12-14_20:03:33] 
+
+[2019-12-14_20:03:33] 
+
+[2019-12-14_20:03:33] -------------------------------------
+[2019-12-14_20:03:33] Attempting to encode [33m2017-03-15 19-46-12.mp4[39m
+[2019-12-14_20:03:34] Filesize is [33m1.08 GB[39m
+[2019-12-14_20:54:24] [32m2017-03-15 19-46-12.mp4[39m was successfully encoded and moved
+[2019-12-14_20:54:24] File is [32m28.00%%[39m of original file at [32m307.68 MB[39m
+[2019-12-14_20:54:24] Seconds to encode: 3050
+[2019-12-14_20:54:24] 
+
+[2019-12-14_20:54:24] 
+
+[2019-12-14_20:54:24] -------------------------------------
+[2019-12-14_20:54:24] Attempting to encode [33m2017-03-15 19-58-06.mp4[39m
+[2019-12-14_20:54:24] Filesize is [33m19.09 GB[39m
+[2019-12-15_00:06:21] ctrl-C pressed: killing program
+[2019-12-15_10:35:47] Starting bash auto video encoder
+[2019-12-15_10:35:48] 
+
+[2019-12-15_10:35:48] -------------------------------------
+[2019-12-15_10:35:48] Attempting to encode [33m2017-03-15 19-58-06.mp4[39m
+[2019-12-15_10:35:48] Filesize is [33m19.09 GB[39m
+[2019-12-15_10:43:45] Starting bash auto video encoder
+[2019-12-15_10:43:45] 
+
+[2019-12-15_10:43:45] -------------------------------------
+[2019-12-15_10:43:45] Attempting to encode [33m2017-03-15 19-58-06.mp4[39m
+[2019-12-15_10:43:45] Filesize is [33m19.09 GB[39m
+[2019-12-15_10:43:48] ctrl-C pressed: killing program
+[2019-12-15_10:44:00] Starting bash auto video encoder
+[2019-12-15_10:44:00] 
+
+[2019-12-15_10:44:00] -------------------------------------
+[2019-12-15_10:44:00] Attempting to encode [33m2017-03-15 19-58-06.mp4[39m
+[2019-12-15_10:44:00] Filesize is [33m19.09 GB[39m
+[2019-12-15_10:44:18] ctrl-C pressed: killing program
+[2019-12-15_10:44:26] Starting bash auto video encoder
+[2019-12-15_10:44:27] 
+
+[2019-12-15_10:44:27] -------------------------------------
+[2019-12-15_10:44:27] Attempting to encode [33m2017-03-15 19-58-06.mp4[39m
+[2019-12-15_10:44:27] Filesize is [33m19.09 GB[39m
+[2019-12-15_15:25:19] ctrl-C pressed: killing program
+[2019-12-23_18:57:47] Starting bash auto video encoder
+[2019-12-23_18:57:48] 
+
+[2019-12-23_18:57:48] -------------------------------------
+[2019-12-23_18:57:48] Attempting to encode [33m2017-03-15 19-58-06.mp4[39m
+[2019-12-23_18:57:48] Filesize is [33m19.09 GB[39m
+[2019-12-23_19:02:27] ctrl-C pressed: killing program
+[2019-12-23_19:23:47] Starting bash auto video encoder
+[2019-12-23_19:23:48] 
+
+[2019-12-23_19:23:48] -------------------------------------
+[2019-12-23_19:23:48] Attempting to encode [33m2017-03-15 19-58-06.mp4[39m
+[2019-12-23_19:23:48] Filesize is [33m19.09 GB[39m
+[2019-12-23_23:12:24] Starting bash auto video encoder
+[2019-12-23_23:12:25] 
+
+[2019-12-23_23:12:25] -------------------------------------
+[2019-12-23_23:12:25] Attempting to encode [33m2017-03-15 19-58-06.mp4[39m
+[2019-12-23_23:12:25] Filesize is [33m19.09 GB[39m
+[2019-12-23_23:26:12] ctrl-C pressed: killing program
+[2020-02-08_13:15:49] Starting bash auto video encoder
+[2020-02-08_13:15:49] No more files to encode
+[2020-02-08_13:19:10] Starting bash auto video encoder
+[2020-02-08_13:19:10] 
+
+[2020-02-08_13:19:10] -------------------------------------
+[2020-02-08_13:19:10] Attempting to encode [33m2017-03-09 18-59-43.mp4[39m
+[2020-02-08_13:19:10] Filesize is [33m180.50 MB[39m
+[2020-02-08_13:19:21] ctrl-C pressed: killing program
+[2020-02-08_13:20:47] Starting bash auto video encoder
+[2020-02-08_13:20:47] 
+
+[2020-02-08_13:20:47] -------------------------------------
+[2020-02-08_13:20:47] Attempting to encode [33m2017-03-09 18-59-43.mp4[39m
+[2020-02-08_13:20:47] Filesize is [33m180.50 MB[39m
+[2020-02-08_13:40:02] ctrl-C pressed: killing program
+[2020-02-08_13:41:25] Starting bash auto video encoder
+[2020-02-08_13:41:25] 
+
+[2020-02-08_13:41:25] -------------------------------------
+[2020-02-08_13:41:25] Attempting to encode [33m2017-03-09 18-59-43.mp4[39m
+[2020-02-08_13:41:25] Filesize is [33m180.50 MB[39m
+[2020-02-08_14:51:12] [32m2017-03-09 18-59-43.mp4[39m was successfully encoded and moved
+[2020-02-08_14:51:12] File is [32m237.00%%[39m of original file at [32m428.39 MB[39m
+[2020-02-08_14:51:13] Seconds to encode: 4188
+[2020-02-08_14:51:13] 
+
+[2020-02-08_17:22:59] Starting bash auto video encoder
+[2020-02-08_17:22:59] 
+
+[2020-02-08_17:22:59] -------------------------------------
+[2020-02-08_17:22:59] Attempting to encode [33m2017-03-09 19-17-31.mp4[39m
+[2020-02-08_17:23:00] Filesize is [33m50.97 MB[39m
+[2020-02-08_17:25:02] [32m2017-03-09 19-17-31.mp4[39m was successfully encoded and moved
+[2020-02-08_17:25:02] File is [32m29.00%%[39m of original file at [32m14.89 MB[39m
+[2020-02-08_17:25:02] Seconds to encode: 122
+[2020-02-08_17:25:02] 
+
+[2020-02-08_17:25:02] 
+
+[2020-02-08_17:25:02] -------------------------------------
+[2020-02-08_17:25:02] Attempting to encode [33m2017-03-09 20-17-04.mp4[39m
+[2020-02-08_17:25:02] Filesize is [33m1.81 MB[39m
+[2020-02-08_17:25:37] [32m2017-03-09 20-17-04.mp4[39m was successfully encoded and moved
+[2020-02-08_17:25:37] File is [32m93.00%%[39m of original file at [32m1.69 MB[39m
+[2020-02-08_17:25:37] Seconds to encode: 35
+[2020-02-08_17:25:37] 
+
+[2020-02-08_17:25:37] 
+
+[2020-02-08_17:25:37] -------------------------------------
+[2020-02-08_17:25:37] Attempting to encode [33m2017-03-10 16-12-18.mkv[39m
+[2020-02-08_17:25:37] Filesize is [33m2.21 MB[39m
+[2020-02-08_17:26:25] [32m2017-03-10 16-12-18.mkv[39m was successfully encoded and moved
+[2020-02-08_17:26:25] File is [32m120.00%%[39m of original file at [32m2.68 MB[39m
+[2020-02-08_17:26:25] Seconds to encode: 48
+[2020-02-08_17:26:25] 
+
+[2020-02-08_17:26:25] 
+
+[2020-02-08_17:26:25] -------------------------------------
+[2020-02-08_17:26:25] Attempting to encode [33m2017-03-13 21-01-19.mp4[39m
+[2020-02-08_17:26:25] Filesize is [33m5.76 MB[39m
+[2020-02-08_17:28:16] [32m2017-03-13 21-01-19.mp4[39m was successfully encoded and moved
+[2020-02-08_17:28:16] File is [32m75.00%%[39m of original file at [32m4.38 MB[39m
+[2020-02-08_17:28:16] Seconds to encode: 111
+[2020-02-08_17:28:16] 
+
+[2020-02-08_17:28:16] 
+
+[2020-02-08_17:28:16] -------------------------------------
+[2020-02-08_17:28:16] Attempting to encode [33m2017-03-13 21-39-53.mp4[39m
+[2020-02-08_17:28:17] Filesize is [33m37.88 MB[39m
+[2020-02-08_17:36:40] [32m2017-03-13 21-39-53.mp4[39m was successfully encoded and moved
+[2020-02-08_17:36:40] File is [32m70.00%%[39m of original file at [32m26.72 MB[39m
+[2020-02-08_17:36:40] Seconds to encode: 503
+[2020-02-08_17:36:40] 
+
+[2020-02-08_17:36:40] No more files to encode
+[2020-02-09_12:05:27] Starting bash auto video encoder
+[2020-02-09_12:05:28] 
+
+[2020-02-09_12:05:28] -------------------------------------
+[2020-02-09_12:05:28] Attempting to encode [33m2017-03-09 18-59-43.mp4[39m
+[2020-02-09_12:05:28] Filesize is [33m180.50 MB[39m
+[2020-02-09_12:05:45] ctrl-C pressed: killing program
+[2020-02-09_12:05:52] Starting bash auto video encoder
+[2020-02-09_12:05:52] 
+
+[2020-02-09_12:05:52] -------------------------------------
+[2020-02-09_12:05:52] Attempting to encode [33m2017-03-09 18-59-43.mp4[39m
+[2020-02-09_12:05:52] Filesize is [33m180.50 MB[39m
+[2020-02-09_13:14:18] [32m2017-03-09 18-59-43.mp4[39m was successfully encoded and moved
+[2020-02-09_13:14:18] File is [32m237.00%%[39m of original file at [32m428.39 MB[39m
+[2020-02-09_13:14:18] Seconds to encode: 4106
+[2020-02-09_13:14:19] 
+
+[2020-02-09_13:14:19] 
+
+[2020-02-09_13:14:19] -------------------------------------
+[2020-02-09_13:14:19] Attempting to encode [33m2017-03-09 19-17-31.mp4[39m
+[2020-02-09_13:14:19] Filesize is [33m50.97 MB[39m
+[2020-02-09_13:16:19] [32m2017-03-09 19-17-31.mp4[39m was successfully encoded and moved
+[2020-02-09_13:16:19] File is [32m29.00%%[39m of original file at [32m14.89 MB[39m
+[2020-02-09_13:16:19] Seconds to encode: 120
+[2020-02-09_13:16:19] 
+
+[2020-02-09_13:16:19] 
+
+[2020-02-09_13:16:19] -------------------------------------
+[2020-02-09_13:16:19] Attempting to encode [33m2017-03-09 20-17-04.mp4[39m
+[2020-02-09_13:16:19] Filesize is [33m1.81 MB[39m
+[2020-02-09_13:16:52] [32m2017-03-09 20-17-04.mp4[39m was successfully encoded and moved
+[2020-02-09_13:16:52] File is [32m93.00%%[39m of original file at [32m1.69 MB[39m
+[2020-02-09_13:16:52] Seconds to encode: 33
+[2020-02-09_13:16:52] 
+
+[2020-02-09_13:16:52] 
+
+[2020-02-09_13:16:52] -------------------------------------
+[2020-02-09_13:16:52] Attempting to encode [33m2017-03-10 16-12-18.mkv[39m
+[2020-02-09_13:16:52] Filesize is [33m2.21 MB[39m
+[2020-02-09_13:17:38] [32m2017-03-10 16-12-18.mkv[39m was successfully encoded and moved
+[2020-02-09_13:17:38] File is [32m120.00%%[39m of original file at [32m2.68 MB[39m
+[2020-02-09_13:17:38] Seconds to encode: 46
+[2020-02-09_13:17:38] 
+
+[2020-02-09_13:17:38] 
+
+[2020-02-09_13:17:38] -------------------------------------
+[2020-02-09_13:17:38] Attempting to encode [33m2017-03-13 21-01-19.mp4[39m
+[2020-02-09_13:17:38] Filesize is [33m5.76 MB[39m
+[2020-02-09_13:19:30] [32m2017-03-13 21-01-19.mp4[39m was successfully encoded and moved
+[2020-02-09_13:19:30] File is [32m75.00%%[39m of original file at [32m4.38 MB[39m
+[2020-02-09_13:19:30] Seconds to encode: 112
+[2020-02-09_13:19:30] 
+
+[2020-02-09_13:19:30] 
+
+[2020-02-09_13:19:30] -------------------------------------
+[2020-02-09_13:19:30] Attempting to encode [33m2017-03-13 21-09-59.mp4[39m
+[2020-02-09_13:19:30] Filesize is [33m5.56 GB[39m
+[2020-02-09_16:41:43] [32m2017-03-13 21-09-59.mp4[39m was successfully encoded and moved
+[2020-02-09_16:41:43] File is [32m26.00%%[39m of original file at [32m1.49 GB[39m
+[2020-02-09_16:41:43] Seconds to encode: 12133
+[2020-02-09_16:41:44] 
+
+[2020-02-09_16:41:44] 
+
+[2020-02-09_16:41:44] -------------------------------------
+[2020-02-09_16:41:44] Attempting to encode [33m2017-03-13 21-39-53.mp4[39m
+[2020-02-09_16:41:44] Filesize is [33m37.88 MB[39m
+[2020-02-09_16:49:56] [32m2017-03-13 21-39-53.mp4[39m was successfully encoded and moved
+[2020-02-09_16:49:56] File is [32m70.00%%[39m of original file at [32m26.72 MB[39m
+[2020-02-09_16:49:56] Seconds to encode: 492
+[2020-02-09_16:49:56] 
+
+[2020-02-09_16:49:56] 
+
+[2020-02-09_16:49:56] -------------------------------------
+[2020-02-09_16:49:56] Attempting to encode [33m2017-03-13 21-50-36.mp4[39m
+[2020-02-09_16:49:56] Filesize is [33m1.08 GB[39m
+[2020-02-09_17:28:46] [32m2017-03-13 21-50-36.mp4[39m was successfully encoded and moved
+[2020-02-09_17:28:46] File is [32m30.00%%[39m of original file at [32m328.15 MB[39m
+[2020-02-09_17:28:46] Seconds to encode: 2330
+[2020-02-09_17:28:46] 
+
+[2020-02-09_17:28:46] 
+
+[2020-02-09_17:28:46] -------------------------------------
+[2020-02-09_17:28:46] Attempting to encode [33m2017-03-13 22-00-07.mp4[39m
+[2020-02-09_17:28:46] Filesize is [33m711.45 MB[39m
+[2020-02-09_18:08:25] [32m2017-03-13 22-00-07.mp4[39m was successfully encoded and moved
+[2020-02-09_18:08:25] File is [32m35.00%%[39m of original file at [32m253.52 MB[39m
+[2020-02-09_18:08:25] Seconds to encode: 2379
+[2020-02-09_18:08:26] 
+
+[2020-02-09_18:08:26] 
+
+[2020-02-09_18:08:26] -------------------------------------
+[2020-02-09_18:08:26] Attempting to encode [33m2017-03-13 22-10-14.mp4[39m
+[2020-02-09_18:08:26] Filesize is [33m269.40 MB[39m
+[2020-02-09_18:13:31] [32m2017-03-13 22-10-14.mp4[39m was successfully encoded and moved
+[2020-02-09_18:13:31] File is [32m32.00%%[39m of original file at [32m88.27 MB[39m
+[2020-02-09_18:13:31] Seconds to encode: 305
+[2020-02-09_18:13:32] 
+
+[2020-02-09_18:13:32] 
+
+[2020-02-09_18:13:32] -------------------------------------
+[2020-02-09_18:13:32] Attempting to encode [33m2017-03-13 22-14-10.mp4[39m
+[2020-02-09_18:13:32] Filesize is [33m2.62 GB[39m
+[2020-02-09_18:58:30] [32m2017-03-13 22-14-10.mp4[39m was successfully encoded and moved
+[2020-02-09_18:58:30] File is [32m31.00%%[39m of original file at [32m840.33 MB[39m
+[2020-02-09_18:58:30] Seconds to encode: 2698
+[2020-02-09_18:58:31] 
+
+[2020-02-09_18:58:31] 
+
+[2020-02-09_18:58:31] -------------------------------------
+[2020-02-09_18:58:31] Attempting to encode [33m2017-03-14 13-49-44.mp4[39m
+[2020-02-09_18:58:31] Filesize is [33m635.79 MB[39m
+[2020-02-09_19:13:07] [32m2017-03-14 13-49-44.mp4[39m was successfully encoded and moved
+[2020-02-09_19:13:07] File is [32m35.00%%[39m of original file at [32m225.76 MB[39m
+[2020-02-09_19:13:07] Seconds to encode: 876
+[2020-02-09_19:13:07] 
+
+[2020-02-09_19:13:07] 
+
+[2020-02-09_19:13:07] -------------------------------------
+[2020-02-09_19:13:07] Attempting to encode [33m2017-03-14 13-53-26.mp4[39m
+[2020-02-09_19:13:07] Filesize is [33m464.25 MB[39m
+[2020-02-09_19:26:06] [32m2017-03-14 13-53-26.mp4[39m was successfully encoded and moved
+[2020-02-09_19:26:06] File is [32m26.00%%[39m of original file at [32m123.28 MB[39m
+[2020-02-09_19:26:06] Seconds to encode: 779
+[2020-02-09_19:26:06] 
+
+[2020-02-09_19:26:06] 
+
+[2020-02-09_19:26:06] -------------------------------------
+[2020-02-09_19:26:06] Attempting to encode [33m2017-03-14 14-33-45.mp4[39m
+[2020-02-09_19:26:06] Filesize is [33m1.52 GB[39m
+[2020-02-09_19:49:00] [32m2017-03-14 14-33-45.mp4[39m was successfully encoded and moved
+[2020-02-09_19:49:01] File is [32m32.00%%[39m of original file at [32m499.67 MB[39m
+[2020-02-09_19:49:01] Seconds to encode: 1375
+[2020-02-09_19:49:01] 
+
+[2020-02-09_19:49:01] 
+
+[2020-02-09_19:49:01] -------------------------------------
+[2020-02-09_19:49:01] Attempting to encode [33m2017-03-14 19-43-46.mp4[39m
+[2020-02-09_19:49:01] Filesize is [33m3.77 GB[39m
+[2020-02-09_20:23:17] [32m2017-03-14 19-43-46.mp4[39m was successfully encoded and moved
+[2020-02-09_20:23:17] File is [32m32.00%%[39m of original file at [32m1.23 GB[39m
+[2020-02-09_20:23:17] Seconds to encode: 2056
+[2020-02-09_20:23:17] 
+
+[2020-02-09_20:23:17] 
+
+[2020-02-09_20:23:17] -------------------------------------
+[2020-02-09_20:23:17] Attempting to encode [33m2017-03-15 15-06-23.mp4[39m
+[2020-02-09_20:23:17] Filesize is [33m265.27 MB[39m
+[2020-02-09_20:23:17] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2020-02-09_20:23:17] [31mHANDBRAKE FAILURE[39m! Exit code: 2
+[2020-02-09_20:23:17] Moved [31m2017-03-15 15-06-23.mp4[39m to FAILED_DIR
+[2020-02-09_20:23:17] [32m2017-03-15 15-06-23.mp4[39m was successfully encoded and moved
+[2020-02-09_20:23:17] Seconds to encode: 0
+[2020-02-09_20:23:18] 
+
+[2020-02-09_20:23:18] 
+
+[2020-02-09_20:23:18] -------------------------------------
+[2020-02-09_20:23:18] Attempting to encode [33m2017-03-15 19-46-12.mp4[39m
+[2020-02-09_20:23:18] Filesize is [33m1.08 GB[39m
+[2020-02-09_21:14:31] [32m2017-03-15 19-46-12.mp4[39m was successfully encoded and moved
+[2020-02-09_21:14:31] File is [32m28.00%%[39m of original file at [32m307.34 MB[39m
+[2020-02-09_21:14:31] Seconds to encode: 3073
+[2020-02-09_21:14:31] 
+
+[2020-02-09_21:14:31] 
+
+[2020-02-09_21:14:31] -------------------------------------
+[2020-02-09_21:14:31] Attempting to encode [33m2017-03-15 19-58-06.mp4[39m
+[2020-02-09_21:14:31] Filesize is [33m19.09 GB[39m
+[2020-02-10_02:21:31] [32m2017-03-15 19-58-06.mp4[39m was successfully encoded and moved
+[2020-02-10_02:21:31] File is [32m24.00%%[39m of original file at [32m4.73 GB[39m
+[2020-02-10_02:21:31] Seconds to encode: 18420
+[2020-02-10_02:21:32] 
+
+[2020-02-10_02:21:32] 
+
+[2020-02-10_02:21:32] -------------------------------------
+[2020-02-10_02:21:32] Attempting to encode [33m2017-03-15 21-04-03.mp4[39m
+[2020-02-10_02:21:32] Filesize is [33m41.25 MB[39m
+[2020-02-10_02:22:55] [32m2017-03-15 21-04-03.mp4[39m was successfully encoded and moved
+[2020-02-10_02:22:55] File is [32m28.00%%[39m of original file at [32m11.75 MB[39m
+[2020-02-10_02:22:55] Seconds to encode: 83
+[2020-02-10_02:22:56] 
+
+[2020-02-10_02:22:56] 
+
+[2020-02-10_02:22:56] -------------------------------------
+[2020-02-10_02:22:56] Attempting to encode [33m2018-05-14 21-19-49.mp4[39m
+[2020-02-10_02:22:56] Filesize is [33m37.10 MB[39m
+[2020-02-10_02:27:26] [32m2018-05-14 21-19-49.mp4[39m was successfully encoded and moved
+[2020-02-10_02:27:26] File is [32m96.00%%[39m of original file at [32m35.96 MB[39m
+[2020-02-10_02:27:26] Seconds to encode: 270
+[2020-02-10_02:27:26] 
+
+[2020-02-10_02:27:26] 
+
+[2020-02-10_02:27:26] -------------------------------------
+[2020-02-10_02:27:26] Attempting to encode [33m2018-05-14 21-21-37.mp4[39m
+[2020-02-10_02:27:26] Filesize is [33m84.94 MB[39m
+[2020-02-10_02:37:53] [32m2018-05-14 21-21-37.mp4[39m was successfully encoded and moved
+[2020-02-10_02:37:53] File is [32m98.00%%[39m of original file at [32m84.02 MB[39m
+[2020-02-10_02:37:53] Seconds to encode: 627
+[2020-02-10_02:37:54] 
+
+[2020-02-10_02:37:54] 
+
+[2020-02-10_02:37:54] -------------------------------------
+[2020-02-10_02:37:54] Attempting to encode [33m2018-05-14 21-31-13.mp4[39m
+[2020-02-10_02:37:54] Filesize is [33m82.58 MB[39m
+[2020-02-10_02:47:19] [32m2018-05-14 21-31-13.mp4[39m was successfully encoded and moved
+[2020-02-10_02:47:19] File is [32m93.00%%[39m of original file at [32m76.99 MB[39m
+[2020-02-10_02:47:19] Seconds to encode: 565
+[2020-02-10_02:47:19] 
+
+[2020-02-10_02:47:19] 
+
+[2020-02-10_02:47:19] -------------------------------------
+[2020-02-10_02:47:19] Attempting to encode [33mCall of Duty  Modern Warfare 2019 2019.11.08 - 21.02.11.06.DVR.mp4[39m
+[2020-02-10_02:47:19] Filesize is [33m142.65 MB[39m
+[2020-02-10_02:50:42] [32mCall of Duty  Modern Warfare 2019 2019.11.08 - 21.02.11.06.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_02:50:42] File is [32m7.00%%[39m of original file at [32m10.68 MB[39m
+[2020-02-10_02:50:42] Seconds to encode: 203
+[2020-02-10_02:50:42] 
+
+[2020-02-10_02:50:42] 
+
+[2020-02-10_02:50:42] -------------------------------------
+[2020-02-10_02:50:42] Attempting to encode [33mCall of Duty  Modern Warfare 2019 2019.11.10 - 20.15.35.04.DVR.mp4[39m
+[2020-02-10_02:50:42] Filesize is [33m15.13 MB[39m
+[2020-02-10_02:51:05] [32mCall of Duty  Modern Warfare 2019 2019.11.10 - 20.15.35.04.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_02:51:05] File is [32m21.00%%[39m of original file at [32m3.26 MB[39m
+[2020-02-10_02:51:05] Seconds to encode: 23
+[2020-02-10_02:51:05] 
+
+[2020-02-10_02:51:05] 
+
+[2020-02-10_02:51:05] -------------------------------------
+[2020-02-10_02:51:05] Attempting to encode [33mCall of Duty  Modern Warfare 2019 2019.11.10 - 20.51.53.05.DVR.mp4[39m
+[2020-02-10_02:51:05] Filesize is [33m487.67 MB[39m
+[2020-02-10_03:02:32] [32mCall of Duty  Modern Warfare 2019 2019.11.10 - 20.51.53.05.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_03:02:32] File is [32m25.00%%[39m of original file at [32m122.05 MB[39m
+[2020-02-10_03:02:32] Seconds to encode: 687
+[2020-02-10_03:02:32] 
+
+[2020-02-10_03:02:32] 
+
+[2020-02-10_03:02:32] -------------------------------------
+[2020-02-10_03:02:32] Attempting to encode [33mCounter-strike  Global Offensive 04.08.2017 - 22.14.54.02.mp4[39m
+[2020-02-10_03:02:32] Filesize is [33m519.72 MB[39m
+[2020-02-10_03:11:48] [32mCounter-strike  Global Offensive 04.08.2017 - 22.14.54.02.mp4[39m was successfully encoded and moved
+[2020-02-10_03:11:48] File is [32m20.00%%[39m of original file at [32m107.35 MB[39m
+[2020-02-10_03:11:48] Seconds to encode: 556
+[2020-02-10_03:11:48] 
+
+[2020-02-10_03:11:48] 
+
+[2020-02-10_03:11:48] -------------------------------------
+[2020-02-10_03:11:48] Attempting to encode [33mCounter-strike  Global Offensive 04.08.2017 - 22.36.59.04.DVR.mp4[39m
+[2020-02-10_03:11:48] Filesize is [33m1.28 GB[39m
+[2020-02-10_03:32:31] [32mCounter-strike  Global Offensive 04.08.2017 - 22.36.59.04.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_03:32:31] File is [32m14.00%%[39m of original file at [32m186.55 MB[39m
+[2020-02-10_03:32:31] Seconds to encode: 1243
+[2020-02-10_03:32:31] 
+
+[2020-02-10_03:32:31] 
+
+[2020-02-10_03:32:31] -------------------------------------
+[2020-02-10_03:32:31] Attempting to encode [33mCounter-strike  Global Offensive 04.08.2017 - 23.06.48.07.DVR.mp4[39m
+[2020-02-10_03:32:31] Filesize is [33m1.65 GB[39m
+[2020-02-10_04:00:58] [32mCounter-strike  Global Offensive 04.08.2017 - 23.06.48.07.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_04:00:58] File is [32m17.00%%[39m of original file at [32m287.87 MB[39m
+[2020-02-10_04:00:58] Seconds to encode: 1707
+[2020-02-10_04:00:58] 
+
+[2020-02-10_04:00:58] 
+
+[2020-02-10_04:00:58] -------------------------------------
+[2020-02-10_04:00:58] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 22.50.25.03.DVR.mp4[39m
+[2020-02-10_04:00:58] Filesize is [33m650.21 MB[39m
+[2020-02-10_04:11:48] [32mCounter-strike  Global Offensive 05.23.2017 - 22.50.25.03.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_04:11:48] File is [32m11.00%%[39m of original file at [32m76.56 MB[39m
+[2020-02-10_04:11:48] Seconds to encode: 650
+[2020-02-10_04:11:48] 
+
+[2020-02-10_04:11:48] 
+
+[2020-02-10_04:11:48] -------------------------------------
+[2020-02-10_04:11:48] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 22.54.02.06.DVR.mp4[39m
+[2020-02-10_04:11:48] Filesize is [33m647.52 MB[39m
+[2020-02-10_04:22:01] [32mCounter-strike  Global Offensive 05.23.2017 - 22.54.02.06.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_04:22:01] File is [32m10.00%%[39m of original file at [32m70.13 MB[39m
+[2020-02-10_04:22:01] Seconds to encode: 613
+[2020-02-10_04:22:01] 
+
+[2020-02-10_04:22:01] 
+
+[2020-02-10_04:22:01] -------------------------------------
+[2020-02-10_04:22:01] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 22.59.36.09.DVR.mp4[39m
+[2020-02-10_04:22:01] Filesize is [33m697.72 MB[39m
+[2020-02-10_04:34:36] [32mCounter-strike  Global Offensive 05.23.2017 - 22.59.36.09.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_04:34:36] File is [32m14.00%%[39m of original file at [32m98.41 MB[39m
+[2020-02-10_04:34:36] Seconds to encode: 755
+[2020-02-10_04:34:36] 
+
+[2020-02-10_04:34:36] 
+
+[2020-02-10_04:34:36] -------------------------------------
+[2020-02-10_04:34:36] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.02.48.12.DVR.mp4[39m
+[2020-02-10_04:34:36] Filesize is [33m711.78 MB[39m
+[2020-02-10_04:47:13] [32mCounter-strike  Global Offensive 05.23.2017 - 23.02.48.12.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_04:47:13] File is [32m12.00%%[39m of original file at [32m89.07 MB[39m
+[2020-02-10_04:47:13] Seconds to encode: 757
+[2020-02-10_04:47:13] 
+
+[2020-02-10_04:47:13] 
+
+[2020-02-10_04:47:13] -------------------------------------
+[2020-02-10_04:47:13] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4[39m
+[2020-02-10_04:47:13] Filesize is [33m508.03 MB[39m
+[2020-02-10_07:38:57] Starting bash auto video encoder
+[2020-02-10_07:38:57] 
+
+[2020-02-10_07:38:57] -------------------------------------
+[2020-02-10_07:38:57] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4[39m
+[2020-02-10_07:38:57] Filesize is [33m508.03 MB[39m
+[2020-02-10_07:49:58] [32mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_07:49:58] File is [32m9.00%%[39m of original file at [32m48.23 MB[39m
+[2020-02-10_07:49:58] Seconds to encode: 661
+[2020-02-10_07:49:58] 
+
+[2020-02-10_07:49:58] 
+
+[2020-02-10_07:49:58] -------------------------------------
+[2020-02-10_07:49:58] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4 48000.pek[39m
+[2020-02-10_07:49:58] Filesize is [33m182.34 KB[39m
+[2020-02-10_07:49:59] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2020-02-10_07:49:59] [31mHANDBRAKE FAILURE[39m! Exit code: 2
+[2020-02-10_07:49:59] Moved [31mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4 48000.pek[39m to FAILED_DIR
+[2020-02-10_07:49:59] [32mCounter-strike  Global Offensive 05.23.2017 - 23.06.50.15.DVR.mp4 48000.pek[39m was successfully encoded and moved
+[2020-02-10_07:49:59] Seconds to encode: 1
+[2020-02-10_07:49:59] 
+
+[2020-02-10_07:49:59] 
+
+[2020-02-10_07:49:59] -------------------------------------
+[2020-02-10_07:49:59] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.20.16.18.DVR.mp4[39m
+[2020-02-10_07:49:59] Filesize is [33m737.81 MB[39m
+[2020-02-10_08:09:25] [32mCounter-strike  Global Offensive 05.23.2017 - 23.20.16.18.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_08:09:25] File is [32m29.00%%[39m of original file at [32m214.63 MB[39m
+[2020-02-10_08:09:25] Seconds to encode: 1166
+[2020-02-10_08:09:26] 
+
+[2020-02-10_08:09:26] 
+
+[2020-02-10_08:09:26] -------------------------------------
+[2020-02-10_08:09:26] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.36.49.21.DVR.mp4[39m
+[2020-02-10_08:09:26] Filesize is [33m726.93 MB[39m
+[2020-02-10_08:26:51] [32mCounter-strike  Global Offensive 05.23.2017 - 23.36.49.21.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_08:26:51] File is [32m23.00%%[39m of original file at [32m171.77 MB[39m
+[2020-02-10_08:26:51] Seconds to encode: 1045
+[2020-02-10_08:26:52] 
+
+[2020-02-10_08:26:52] 
+
+[2020-02-10_08:26:52] -------------------------------------
+[2020-02-10_08:26:52] Attempting to encode [33mCounter-strike  Global Offensive 05.23.2017 - 23.41.34.24.DVR.mp4[39m
+[2020-02-10_08:26:52] Filesize is [33m713.58 MB[39m
+[2020-02-10_08:44:05] [32mCounter-strike  Global Offensive 05.23.2017 - 23.41.34.24.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_08:44:05] File is [32m21.00%%[39m of original file at [32m156.21 MB[39m
+[2020-02-10_08:44:05] Seconds to encode: 1033
+[2020-02-10_08:44:05] 
+
+[2020-02-10_08:44:05] 
+
+[2020-02-10_08:44:05] -------------------------------------
+[2020-02-10_08:44:05] Attempting to encode [33mCounter-strike  Global Offensive 05.24.2017 - 00.21.08.27.DVR.mp4[39m
+[2020-02-10_08:44:05] Filesize is [33m670.34 MB[39m
+[2020-02-10_08:58:50] [32mCounter-strike  Global Offensive 05.24.2017 - 00.21.08.27.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_08:58:50] File is [32m18.00%%[39m of original file at [32m124.24 MB[39m
+[2020-02-10_08:58:50] Seconds to encode: 885
+[2020-02-10_08:58:50] 
+
+[2020-02-10_08:58:50] 
+
+[2020-02-10_08:58:50] -------------------------------------
+[2020-02-10_08:58:50] Attempting to encode [33mCounter-strike  Global Offensive 05.24.2017 - 00.36.28.30.DVR.mp4[39m
+[2020-02-10_08:58:50] Filesize is [33m399.79 MB[39m
+[2020-02-10_09:05:39] [32mCounter-strike  Global Offensive 05.24.2017 - 00.36.28.30.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_09:05:39] File is [32m9.00%%[39m of original file at [32m39.65 MB[39m
+[2020-02-10_09:05:39] Seconds to encode: 409
+[2020-02-10_09:05:39] 
+
+[2020-02-10_09:05:39] 
+
+[2020-02-10_09:05:39] -------------------------------------
+[2020-02-10_09:05:39] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.27.37.23.DVR.mp4[39m
+[2020-02-10_09:05:39] Filesize is [33m461.31 MB[39m
+[2020-02-10_09:16:03] [32mCounter-strike  Global Offensive 06.04.2017 - 22.27.37.23.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_09:16:03] File is [32m21.00%%[39m of original file at [32m99.13 MB[39m
+[2020-02-10_09:16:03] Seconds to encode: 624
+[2020-02-10_09:16:03] 
+
+[2020-02-10_09:16:03] 
+
+[2020-02-10_09:16:03] -------------------------------------
+[2020-02-10_09:16:03] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.33.09.26.DVR.mp4[39m
+[2020-02-10_09:16:03] Filesize is [33m744.84 MB[39m
+[2020-02-10_09:34:05] [32mCounter-strike  Global Offensive 06.04.2017 - 22.33.09.26.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_09:34:05] File is [32m24.00%%[39m of original file at [32m180.57 MB[39m
+[2020-02-10_09:34:05] Seconds to encode: 1082
+[2020-02-10_09:34:05] 
+
+[2020-02-10_09:34:05] 
+
+[2020-02-10_09:34:05] -------------------------------------
+[2020-02-10_09:34:05] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.35.18.29.DVR.mp4[39m
+[2020-02-10_09:34:05] Filesize is [33m726.54 MB[39m
+[2020-02-10_09:50:56] [32mCounter-strike  Global Offensive 06.04.2017 - 22.35.18.29.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_09:50:56] File is [32m22.00%%[39m of original file at [32m163.71 MB[39m
+[2020-02-10_09:50:56] Seconds to encode: 1011
+[2020-02-10_09:50:56] 
+
+[2020-02-10_09:50:56] 
+
+[2020-02-10_09:50:56] -------------------------------------
+[2020-02-10_09:50:56] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.40.42.32.DVR.mp4[39m
+[2020-02-10_09:50:56] Filesize is [33m646.20 MB[39m
+[2020-02-10_10:04:33] [32mCounter-strike  Global Offensive 06.04.2017 - 22.40.42.32.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_10:04:33] File is [32m20.00%%[39m of original file at [32m129.42 MB[39m
+[2020-02-10_10:04:33] Seconds to encode: 817
+[2020-02-10_10:04:33] 
+
+[2020-02-10_10:04:33] 
+
+[2020-02-10_10:04:33] -------------------------------------
+[2020-02-10_10:04:33] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.42.44.37.DVR.mp4[39m
+[2020-02-10_10:04:33] Filesize is [33m302.89 MB[39m
+[2020-02-10_10:11:03] [32mCounter-strike  Global Offensive 06.04.2017 - 22.42.44.37.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_10:11:03] File is [32m18.00%%[39m of original file at [32m56.57 MB[39m
+[2020-02-10_10:11:03] Seconds to encode: 390
+[2020-02-10_10:11:03] 
+
+[2020-02-10_10:11:03] 
+
+[2020-02-10_10:11:03] -------------------------------------
+[2020-02-10_10:11:03] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.47.16.40.DVR.mp4[39m
+[2020-02-10_10:11:03] Filesize is [33m569.18 MB[39m
+[2020-02-10_10:23:32] [32mCounter-strike  Global Offensive 06.04.2017 - 22.47.16.40.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_10:23:32] File is [32m19.00%%[39m of original file at [32m109.66 MB[39m
+[2020-02-10_10:23:32] Seconds to encode: 749
+[2020-02-10_10:23:32] 
+
+[2020-02-10_10:23:33] 
+
+[2020-02-10_10:23:33] -------------------------------------
+[2020-02-10_10:23:33] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 22.51.59.43.DVR.mp4[39m
+[2020-02-10_10:23:33] Filesize is [33m735.45 MB[39m
+[2020-02-10_10:39:41] [32mCounter-strike  Global Offensive 06.04.2017 - 22.51.59.43.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_10:39:41] File is [32m22.00%%[39m of original file at [32m167.75 MB[39m
+[2020-02-10_10:39:41] Seconds to encode: 968
+[2020-02-10_10:39:41] 
+
+[2020-02-10_10:39:41] 
+
+[2020-02-10_10:39:41] -------------------------------------
+[2020-02-10_10:39:41] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.00.33.46.DVR.mp4[39m
+[2020-02-10_10:39:41] Filesize is [33m733.74 MB[39m
+[2020-02-10_10:55:57] [32mCounter-strike  Global Offensive 06.04.2017 - 23.00.33.46.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_10:55:57] File is [32m26.00%%[39m of original file at [32m196.26 MB[39m
+[2020-02-10_10:55:57] Seconds to encode: 976
+[2020-02-10_10:55:57] 
+
+[2020-02-10_10:55:57] 
+
+[2020-02-10_10:55:57] -------------------------------------
+[2020-02-10_10:55:57] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.01.18.49.DVR.mp4[39m
+[2020-02-10_10:55:57] Filesize is [33m271.15 MB[39m
+[2020-02-10_11:02:06] [32mCounter-strike  Global Offensive 06.04.2017 - 23.01.18.49.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_11:02:06] File is [32m22.00%%[39m of original file at [32m61.98 MB[39m
+[2020-02-10_11:02:06] Seconds to encode: 369
+[2020-02-10_11:02:06] 
+
+[2020-02-10_11:02:06] 
+
+[2020-02-10_11:02:06] -------------------------------------
+[2020-02-10_11:02:06] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.07.12.52.DVR.mp4[39m
+[2020-02-10_11:02:06] Filesize is [33m713.84 MB[39m
+[2020-02-10_11:18:37] [32mCounter-strike  Global Offensive 06.04.2017 - 23.07.12.52.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_11:18:37] File is [32m23.00%%[39m of original file at [32m166.66 MB[39m
+[2020-02-10_11:18:37] Seconds to encode: 991
+[2020-02-10_11:18:37] 
+
+[2020-02-10_11:18:37] 
+
+[2020-02-10_11:18:37] -------------------------------------
+[2020-02-10_11:18:37] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.07.59.55.DVR.mp4[39m
+[2020-02-10_11:18:37] Filesize is [33m252.58 MB[39m
+[2020-02-10_11:23:39] [32mCounter-strike  Global Offensive 06.04.2017 - 23.07.59.55.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_11:23:39] File is [32m15.00%%[39m of original file at [32m40.29 MB[39m
+[2020-02-10_11:23:39] Seconds to encode: 302
+[2020-02-10_11:23:39] 
+
+[2020-02-10_11:23:39] 
+
+[2020-02-10_11:23:39] -------------------------------------
+[2020-02-10_11:23:39] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.10.14.58.DVR.mp4[39m
+[2020-02-10_11:23:39] Filesize is [33m488.91 MB[39m
+[2020-02-10_11:32:07] [32mCounter-strike  Global Offensive 06.04.2017 - 23.10.14.58.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_11:32:07] File is [32m10.00%%[39m of original file at [32m49.05 MB[39m
+[2020-02-10_11:32:07] Seconds to encode: 508
+[2020-02-10_11:32:07] 
+
+[2020-02-10_11:32:07] 
+
+[2020-02-10_11:32:07] -------------------------------------
+[2020-02-10_11:32:07] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.16.41.61.DVR.mp4[39m
+[2020-02-10_11:32:07] Filesize is [33m698.44 MB[39m
+[2020-02-10_11:45:52] [32mCounter-strike  Global Offensive 06.04.2017 - 23.16.41.61.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_11:45:52] File is [32m19.00%%[39m of original file at [32m137.79 MB[39m
+[2020-02-10_11:45:52] Seconds to encode: 825
+[2020-02-10_11:45:52] 
+
+[2020-02-10_11:45:52] 
+
+[2020-02-10_11:45:52] -------------------------------------
+[2020-02-10_11:45:52] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.19.17.64.DVR.mp4[39m
+[2020-02-10_11:45:52] Filesize is [33m616.00 MB[39m
+[2020-02-10_11:58:17] [32mCounter-strike  Global Offensive 06.04.2017 - 23.19.17.64.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_11:58:17] File is [32m17.00%%[39m of original file at [32m109.20 MB[39m
+[2020-02-10_11:58:17] Seconds to encode: 745
+[2020-02-10_11:58:17] 
+
+[2020-02-10_11:58:17] 
+
+[2020-02-10_11:58:17] -------------------------------------
+[2020-02-10_11:58:17] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.20.40.67.DVR.mp4[39m
+[2020-02-10_11:58:17] Filesize is [33m428.13 MB[39m
+[2020-02-10_12:08:36] [32mCounter-strike  Global Offensive 06.04.2017 - 23.20.40.67.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_12:08:36] File is [32m22.00%%[39m of original file at [32m95.97 MB[39m
+[2020-02-10_12:08:36] Seconds to encode: 619
+[2020-02-10_12:08:36] 
+
+[2020-02-10_12:08:36] 
+
+[2020-02-10_12:08:36] -------------------------------------
+[2020-02-10_12:08:36] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.21.44.70.DVR.mp4[39m
+[2020-02-10_12:08:36] Filesize is [33m304.97 MB[39m
+[2020-02-10_12:14:47] [32mCounter-strike  Global Offensive 06.04.2017 - 23.21.44.70.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_12:14:47] File is [32m15.00%%[39m of original file at [32m47.63 MB[39m
+[2020-02-10_12:14:47] Seconds to encode: 371
+[2020-02-10_12:14:47] 
+
+[2020-02-10_12:14:47] 
+
+[2020-02-10_12:14:47] -------------------------------------
+[2020-02-10_12:14:47] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.33.37.73.DVR.mp4[39m
+[2020-02-10_12:14:47] Filesize is [33m725.56 MB[39m
+[2020-02-10_12:31:24] [32mCounter-strike  Global Offensive 06.04.2017 - 23.33.37.73.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_12:31:24] File is [32m32.00%%[39m of original file at [32m237.44 MB[39m
+[2020-02-10_12:31:24] Seconds to encode: 997
+[2020-02-10_12:31:24] 
+
+[2020-02-10_12:31:24] 
+
+[2020-02-10_12:31:24] -------------------------------------
+[2020-02-10_12:31:24] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.34.05.76.DVR.mp4[39m
+[2020-02-10_12:31:24] Filesize is [33m171.18 MB[39m
+[2020-02-10_12:35:42] [32mCounter-strike  Global Offensive 06.04.2017 - 23.34.05.76.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_12:35:42] File is [32m19.00%%[39m of original file at [32m33.57 MB[39m
+[2020-02-10_12:35:42] Seconds to encode: 258
+[2020-02-10_12:35:42] 
+
+[2020-02-10_12:35:42] 
+
+[2020-02-10_12:35:42] -------------------------------------
+[2020-02-10_12:35:42] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.40.35.79.DVR.mp4[39m
+[2020-02-10_12:35:42] Filesize is [33m661.99 MB[39m
+[2020-02-10_12:50:35] [32mCounter-strike  Global Offensive 06.04.2017 - 23.40.35.79.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_12:50:35] File is [32m19.00%%[39m of original file at [32m129.27 MB[39m
+[2020-02-10_12:50:35] Seconds to encode: 893
+[2020-02-10_12:50:35] 
+
+[2020-02-10_12:50:35] 
+
+[2020-02-10_12:50:35] -------------------------------------
+[2020-02-10_12:50:35] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.44.38.82.DVR.mp4[39m
+[2020-02-10_12:50:35] Filesize is [33m634.13 MB[39m
+[2020-02-10_13:05:28] [32mCounter-strike  Global Offensive 06.04.2017 - 23.44.38.82.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_13:05:28] File is [32m36.00%%[39m of original file at [32m234.24 MB[39m
+[2020-02-10_13:05:28] Seconds to encode: 893
+[2020-02-10_13:05:28] 
+
+[2020-02-10_13:05:28] 
+
+[2020-02-10_13:05:28] -------------------------------------
+[2020-02-10_13:05:28] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.45.16.85.DVR.mp4[39m
+[2020-02-10_13:05:28] Filesize is [33m212.15 MB[39m
+[2020-02-10_13:10:35] [32mCounter-strike  Global Offensive 06.04.2017 - 23.45.16.85.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_13:10:35] File is [32m33.00%%[39m of original file at [32m71.34 MB[39m
+[2020-02-10_13:10:35] Seconds to encode: 307
+[2020-02-10_13:10:36] 
+
+[2020-02-10_13:10:36] 
+
+[2020-02-10_13:10:36] -------------------------------------
+[2020-02-10_13:10:36] Attempting to encode [33mCounter-strike  Global Offensive 06.04.2017 - 23.47.13.88.DVR.mp4[39m
+[2020-02-10_13:10:36] Filesize is [33m708.04 MB[39m
+[2020-02-10_13:28:04] [32mCounter-strike  Global Offensive 06.04.2017 - 23.47.13.88.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_13:28:04] File is [32m33.00%%[39m of original file at [32m237.28 MB[39m
+[2020-02-10_13:28:04] Seconds to encode: 1048
+[2020-02-10_13:28:04] 
+
+[2020-02-10_13:28:04] 
+
+[2020-02-10_13:28:04] -------------------------------------
+[2020-02-10_13:28:04] Attempting to encode [33mCounter-strike  Global Offensive 06.05.2017 - 00.15.17.91.DVR.mp4[39m
+[2020-02-10_13:28:04] Filesize is [33m646.16 MB[39m
+[2020-02-10_13:41:07] [32mCounter-strike  Global Offensive 06.05.2017 - 00.15.17.91.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_13:41:07] File is [32m17.00%%[39m of original file at [32m110.03 MB[39m
+[2020-02-10_13:41:08] Seconds to encode: 783
+[2020-02-10_13:41:08] 
+
+[2020-02-10_13:41:08] 
+
+[2020-02-10_13:41:08] -------------------------------------
+[2020-02-10_13:41:08] Attempting to encode [33mCounter-strike  Global Offensive 06.05.2017 - 00.16.28.94.DVR.mp4[39m
+[2020-02-10_13:41:08] Filesize is [33m411.88 MB[39m
+[2020-02-10_13:50:46] [32mCounter-strike  Global Offensive 06.05.2017 - 00.16.28.94.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_13:50:46] File is [32m20.00%%[39m of original file at [32m85.98 MB[39m
+[2020-02-10_13:50:46] Seconds to encode: 578
+[2020-02-10_13:50:46] 
+
+[2020-02-10_13:50:46] 
+
+[2020-02-10_13:50:46] -------------------------------------
+[2020-02-10_13:50:46] Attempting to encode [33mCounter-strike  Global Offensive 06.05.2017 - 00.20.55.97.DVR.mp4[39m
+[2020-02-10_13:50:46] Filesize is [33m691.39 MB[39m
+[2020-02-10_14:04:58] [32mCounter-strike  Global Offensive 06.05.2017 - 00.20.55.97.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_14:04:58] File is [32m15.00%%[39m of original file at [32m108.97 MB[39m
+[2020-02-10_14:04:58] Seconds to encode: 852
+[2020-02-10_14:04:58] 
+
+[2020-02-10_14:04:58] 
+
+[2020-02-10_14:04:58] -------------------------------------
+[2020-02-10_14:04:58] Attempting to encode [33mCounter-strike  Global Offensive 07.13.2017 - 00.11.03.03.DVR.mp4[39m
+[2020-02-10_14:04:58] Filesize is [33m704.80 MB[39m
+[2020-02-10_14:20:51] [32mCounter-strike  Global Offensive 07.13.2017 - 00.11.03.03.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_14:20:51] File is [32m22.00%%[39m of original file at [32m160.10 MB[39m
+[2020-02-10_14:20:51] Seconds to encode: 953
+[2020-02-10_14:20:53] 
+
+[2020-02-10_14:20:53] 
+
+[2020-02-10_14:20:53] -------------------------------------
+[2020-02-10_14:20:53] Attempting to encode [33mCounter-strike  Global Offensive 07.13.2017 - 00.13.49.06.DVR.mp4[39m
+[2020-02-10_14:20:53] Filesize is [33m727.85 MB[39m
+[2020-02-10_14:37:17] [32mCounter-strike  Global Offensive 07.13.2017 - 00.13.49.06.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_14:37:17] File is [32m23.00%%[39m of original file at [32m170.71 MB[39m
+[2020-02-10_14:37:17] Seconds to encode: 984
+[2020-02-10_14:37:17] 
+
+[2020-02-10_14:37:17] 
+
+[2020-02-10_14:37:17] -------------------------------------
+[2020-02-10_14:37:17] Attempting to encode [33mCounter-strike  Global Offensive 07.13.2017 - 00.16.53.09.DVR.mp4[39m
+[2020-02-10_14:37:17] Filesize is [33m725.76 MB[39m
+[2020-02-10_14:54:26] [32mCounter-strike  Global Offensive 07.13.2017 - 00.16.53.09.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_14:54:26] File is [32m23.00%%[39m of original file at [32m170.17 MB[39m
+[2020-02-10_14:54:26] Seconds to encode: 1029
+[2020-02-10_14:54:26] 
+
+[2020-02-10_14:54:26] 
+
+[2020-02-10_14:54:26] -------------------------------------
+[2020-02-10_14:54:26] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.06.50.11.DVR.mp4[39m
+[2020-02-10_14:54:26] Filesize is [33m404.39 MB[39m
+[2020-02-10_15:01:27] [32mCounter-strike  Global Offensive 07.15.2017 - 15.06.50.11.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_15:01:27] File is [32m4.00%%[39m of original file at [32m17.79 MB[39m
+[2020-02-10_15:01:27] Seconds to encode: 421
+[2020-02-10_15:01:27] 
+
+[2020-02-10_15:01:27] 
+
+[2020-02-10_15:01:27] -------------------------------------
+[2020-02-10_15:01:27] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.11.59.14.DVR.mp4[39m
+[2020-02-10_15:01:27] Filesize is [33m629.10 MB[39m
+[2020-02-10_15:11:57] [32mCounter-strike  Global Offensive 07.15.2017 - 15.11.59.14.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_15:11:57] File is [32m4.00%%[39m of original file at [32m26.08 MB[39m
+[2020-02-10_15:11:57] Seconds to encode: 630
+[2020-02-10_15:11:57] 
+
+[2020-02-10_15:11:57] 
+
+[2020-02-10_15:11:57] -------------------------------------
+[2020-02-10_15:11:57] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.27.57.17.DVR.mp4[39m
+[2020-02-10_15:11:57] Filesize is [33m959.79 MB[39m
+[2020-02-10_15:36:36] [32mCounter-strike  Global Offensive 07.15.2017 - 15.27.57.17.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_15:36:36] File is [32m26.00%%[39m of original file at [32m257.65 MB[39m
+[2020-02-10_15:36:36] Seconds to encode: 1479
+[2020-02-10_15:36:36] 
+
+[2020-02-10_15:36:36] 
+
+[2020-02-10_15:36:36] -------------------------------------
+[2020-02-10_15:36:36] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.34.18.20.DVR.mp4[39m
+[2020-02-10_15:36:36] Filesize is [33m929.53 MB[39m
+[2020-02-10_16:00:25] [32mCounter-strike  Global Offensive 07.15.2017 - 15.34.18.20.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_16:00:25] File is [32m27.00%%[39m of original file at [32m254.97 MB[39m
+[2020-02-10_16:00:25] Seconds to encode: 1429
+[2020-02-10_16:00:25] 
+
+[2020-02-10_16:00:25] 
+
+[2020-02-10_16:00:25] -------------------------------------
+[2020-02-10_16:00:25] Attempting to encode [33mCounter-strike  Global Offensive 07.15.2017 - 15.46.29.23.DVR.mp4[39m
+[2020-02-10_16:00:25] Filesize is [33m859.61 MB[39m
+[2020-02-10_16:22:43] [32mCounter-strike  Global Offensive 07.15.2017 - 15.46.29.23.DVR.mp4[39m was successfully encoded and moved
+[2020-02-10_16:22:43] File is [32m19.00%%[39m of original file at [32m165.21 MB[39m
+[2020-02-10_16:22:43] Seconds to encode: 1338
+[2020-02-10_16:22:44] 
+
+[2020-02-10_16:22:44] 
+
+[2020-02-10_16:22:44] -------------------------------------
+[2020-02-10_16:22:44] Attempting to encode [33mCounter-strike  Global Offensive 07.18.2017 - 23.34.47.04.mp4[39m
+[2020-02-10_16:22:44] Filesize is [33m39.14 GB[39m
+[2020-02-11_06:41:42] [32mCounter-strike  Global Offensive 07.18.2017 - 23.34.47.04.mp4[39m was successfully encoded and moved
+[2020-02-11_06:41:42] File is [32m24.00%%[39m of original file at [32m9.42 GB[39m
+[2020-02-11_06:41:42] Seconds to encode: 51538
+[2020-02-11_06:42:18] 
+
+[2020-02-11_06:42:18] 
+
+[2020-02-11_06:42:18] -------------------------------------
+[2020-02-11_06:42:18] Attempting to encode [33mCounter-strike  Global Offensive 07.18.2017 - 23.34.47.04.mp4.sfk[39m
+[2020-02-11_06:42:18] Filesize is [33m11.17 MB[39m
+[2020-02-11_06:42:20] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2020-02-11_06:42:20] [31mHANDBRAKE FAILURE[39m! Exit code: 2
+[2020-02-11_06:42:20] Moved [31mCounter-strike  Global Offensive 07.18.2017 - 23.34.47.04.mp4.sfk[39m to FAILED_DIR
+[2020-02-11_06:42:20] [32mCounter-strike  Global Offensive 07.18.2017 - 23.34.47.04.mp4.sfk[39m was successfully encoded and moved
+[2020-02-11_06:42:20] Seconds to encode: 2
+[2020-02-11_06:42:20] 
+
+[2020-02-11_06:42:20] 
+
+[2020-02-11_06:42:20] -------------------------------------
+[2020-02-11_06:42:20] Attempting to encode [33mCounter-strike  Global Offensive 07.20.2017 - 21.03.00.08.DVR.mp4[39m
+[2020-02-11_06:42:20] Filesize is [33m577.57 MB[39m
+[2020-02-11_06:53:24] [32mCounter-strike  Global Offensive 07.20.2017 - 21.03.00.08.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_06:53:24] File is [32m19.00%%[39m of original file at [32m110.85 MB[39m
+[2020-02-11_06:53:24] Seconds to encode: 664
+[2020-02-11_06:53:24] 
+
+[2020-02-11_06:53:24] 
+
+[2020-02-11_06:53:24] -------------------------------------
+[2020-02-11_06:53:24] Attempting to encode [33mCounter-strike  Global Offensive 07.20.2017 - 21.07.16.11.DVR.mp4[39m
+[2020-02-11_06:53:24] Filesize is [33m967.08 MB[39m
+[2020-02-11_07:12:12] [32mCounter-strike  Global Offensive 07.20.2017 - 21.07.16.11.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_07:12:12] File is [32m19.00%%[39m of original file at [32m189.32 MB[39m
+[2020-02-11_07:12:12] Seconds to encode: 1128
+[2020-02-11_07:12:12] 
+
+[2020-02-11_07:12:12] 
+
+[2020-02-11_07:12:12] -------------------------------------
+[2020-02-11_07:12:12] Attempting to encode [33mCounter-strike  Global Offensive 07.20.2017 - 21.07.42.14.DVR.mp4[39m
+[2020-02-11_07:12:12] Filesize is [33m133.05 MB[39m
+[2020-02-11_07:14:44] [32mCounter-strike  Global Offensive 07.20.2017 - 21.07.42.14.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_07:14:44] File is [32m17.00%%[39m of original file at [32m22.74 MB[39m
+[2020-02-11_07:14:44] Seconds to encode: 152
+[2020-02-11_07:14:44] 
+
+[2020-02-11_07:14:44] 
+
+[2020-02-11_07:14:44] -------------------------------------
+[2020-02-11_07:14:44] Attempting to encode [33mCounter-strike  Global Offensive 07.21.2017 - 21.54.40.18.DVR.mp4[39m
+[2020-02-11_07:14:44] Filesize is [33m994.12 MB[39m
+[2020-02-11_07:37:37] [32mCounter-strike  Global Offensive 07.21.2017 - 21.54.40.18.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_07:37:38] File is [32m36.00%%[39m of original file at [32m366.41 MB[39m
+[2020-02-11_07:37:38] Seconds to encode: 1374
+[2020-02-11_07:37:38] 
+
+[2020-02-11_07:37:38] 
+
+[2020-02-11_07:37:38] -------------------------------------
+[2020-02-11_07:37:38] Attempting to encode [33mCounter-strike  Global Offensive 07.21.2017 - 22.14.13.20.mp4[39m
+[2020-02-11_07:37:38] Filesize is [33m25.17 GB[39m
+[2020-02-11_16:01:11] [32mCounter-strike  Global Offensive 07.21.2017 - 22.14.13.20.mp4[39m was successfully encoded and moved
+[2020-02-11_16:01:11] File is [32m22.00%%[39m of original file at [32m5.77 GB[39m
+[2020-02-11_16:01:11] Seconds to encode: 30213
+[2020-02-11_16:01:12] 
+
+[2020-02-11_16:01:12] 
+
+[2020-02-11_16:01:12] -------------------------------------
+[2020-02-11_16:01:12] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 18.43.33.10.DVR.mp4[39m
+[2020-02-11_16:01:12] Filesize is [33m135.22 MB[39m
+[2020-02-11_16:03:47] [32mCounter-strike  Global Offensive 07.24.2017 - 18.43.33.10.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_16:03:47] File is [32m13.00%%[39m of original file at [32m18.15 MB[39m
+[2020-02-11_16:03:47] Seconds to encode: 155
+[2020-02-11_16:03:47] 
+
+[2020-02-11_16:03:47] 
+
+[2020-02-11_16:03:47] -------------------------------------
+[2020-02-11_16:03:47] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 18.43.48.13.DVR.mp4[39m
+[2020-02-11_16:03:47] Filesize is [33m65.14 MB[39m
+[2020-02-11_16:05:02] [32mCounter-strike  Global Offensive 07.24.2017 - 18.43.48.13.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_16:05:02] File is [32m12.00%%[39m of original file at [32m8.43 MB[39m
+[2020-02-11_16:05:02] Seconds to encode: 75
+[2020-02-11_16:05:02] 
+
+[2020-02-11_16:05:02] 
+
+[2020-02-11_16:05:02] -------------------------------------
+[2020-02-11_16:05:02] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 18.43.59.16.DVR.mp4[39m
+[2020-02-11_16:05:02] Filesize is [33m43.89 MB[39m
+[2020-02-11_16:05:53] [32mCounter-strike  Global Offensive 07.24.2017 - 18.43.59.16.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_16:05:53] File is [32m9.00%%[39m of original file at [32m4.23 MB[39m
+[2020-02-11_16:05:53] Seconds to encode: 51
+[2020-02-11_16:05:53] 
+
+[2020-02-11_16:05:53] 
+
+[2020-02-11_16:05:53] -------------------------------------
+[2020-02-11_16:05:53] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 18.45.49.19.DVR.mp4[39m
+[2020-02-11_16:05:53] Filesize is [33m164.07 MB[39m
+[2020-02-11_16:08:46] [32mCounter-strike  Global Offensive 07.24.2017 - 18.45.49.19.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_16:08:46] File is [32m11.00%%[39m of original file at [32m19.10 MB[39m
+[2020-02-11_16:08:46] Seconds to encode: 173
+[2020-02-11_16:08:46] 
+
+[2020-02-11_16:08:46] 
+
+[2020-02-11_16:08:46] -------------------------------------
+[2020-02-11_16:08:46] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 18.53.10.22.DVR.mp4[39m
+[2020-02-11_16:08:46] Filesize is [33m169.38 MB[39m
+[2020-02-11_16:12:05] [32mCounter-strike  Global Offensive 07.24.2017 - 18.53.10.22.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_16:12:05] File is [32m13.00%%[39m of original file at [32m23.67 MB[39m
+[2020-02-11_16:12:05] Seconds to encode: 199
+[2020-02-11_16:12:05] 
+
+[2020-02-11_16:12:05] 
+
+[2020-02-11_16:12:05] -------------------------------------
+[2020-02-11_16:12:05] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 18.54.51.25.DVR.mp4[39m
+[2020-02-11_16:12:05] Filesize is [33m121.56 MB[39m
+[2020-02-11_16:13:58] [32mCounter-strike  Global Offensive 07.24.2017 - 18.54.51.25.DVR.mp4[39m was successfully encoded and moved
+[2020-02-11_16:13:58] File is [32m8.00%%[39m of original file at [32m10.80 MB[39m
+[2020-02-11_16:13:58] Seconds to encode: 113
+[2020-02-11_16:13:58] 
+
+[2020-02-11_16:13:58] 
+
+[2020-02-11_16:13:58] -------------------------------------
+[2020-02-11_16:13:58] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 18.58.53.27.mp4[39m
+[2020-02-11_16:13:58] Filesize is [33m16.02 GB[39m
+[2020-02-11_21:25:02] [32mCounter-strike  Global Offensive 07.24.2017 - 18.58.53.27.mp4[39m was successfully encoded and moved
+[2020-02-11_21:25:02] File is [32m17.00%%[39m of original file at [32m2.80 GB[39m
+[2020-02-11_21:25:02] Seconds to encode: 18664
+[2020-02-11_21:25:02] 
+
+[2020-02-11_21:25:02] 
+
+[2020-02-11_21:25:02] -------------------------------------
+[2020-02-11_21:25:02] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 20.53.21.28.mp4[39m
+[2020-02-11_21:25:02] Filesize is [33m14.55 GB[39m
+[2020-02-12_01:53:16] [32mCounter-strike  Global Offensive 07.24.2017 - 20.53.21.28.mp4[39m was successfully encoded and moved
+[2020-02-12_01:53:16] File is [32m17.00%%[39m of original file at [32m2.50 GB[39m
+[2020-02-12_01:53:16] Seconds to encode: 16094
+[2020-02-12_01:53:17] 
+
+[2020-02-12_01:53:17] 
+
+[2020-02-12_01:53:17] -------------------------------------
+[2020-02-12_01:53:17] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 21.45.41.29.mp4[39m
+[2020-02-12_01:53:17] Filesize is [33m13.56 GB[39m
+[2020-02-12_07:04:40] Starting bash auto video encoder
+[2020-02-12_07:04:41] 
+
+[2020-02-12_07:04:41] -------------------------------------
+[2020-02-12_07:04:41] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 21.45.41.29.mp4[39m
+[2020-02-12_07:04:41] Filesize is [33m13.56 GB[39m
+[2020-02-12_10:15:03] ctrl-C pressed: killing program
+[2020-02-12_10:15:14] Starting bash auto video encoder
+[2020-02-12_10:15:15] 
+
+[2020-02-12_10:15:15] -------------------------------------
+[2020-02-12_10:15:15] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 21.45.41.29.mp4[39m
+[2020-02-12_10:15:15] Filesize is [33m13.56 GB[39m
+[2020-02-12_10:15:32] ctrl-C pressed: killing program
+[2020-02-12_11:55:03] Starting bash auto video encoder
+[2020-02-12_11:55:03] 
+
+[2020-02-12_11:55:03] -------------------------------------
+[2020-02-12_11:55:03] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 21.45.41.29.mp4[39m
+[2020-02-12_11:55:03] Filesize is [33m13.56 GB[39m
+[2020-02-12_12:00:04] Starting bash auto video encoder
+[2020-02-12_12:00:04] 
+
+[2020-02-12_12:00:04] -------------------------------------
+[2020-02-12_12:00:04] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 21.45.41.29.mp4[39m
+[2020-02-12_12:00:04] Filesize is [33m13.56 GB[39m
+[2020-02-12_12:10:03] Starting bash auto video encoder
+[2020-02-12_12:10:03] 
+
+[2020-02-12_12:10:03] -------------------------------------
+[2020-02-12_12:10:03] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 21.45.41.29.mp4[39m
+[2020-02-12_12:10:03] Filesize is [33m13.56 GB[39m
+[2020-02-12_12:50:03] Starting bash auto video encoder
+[2020-02-12_12:50:03] 
+
+[2020-02-12_12:50:03] -------------------------------------
+[2020-02-12_12:50:03] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 21.45.41.29.mp4[39m
+[2020-02-12_12:50:03] Filesize is [33m13.56 GB[39m
+[2020-02-13_13:30:23] [32mCounter-strike  Global Offensive 07.24.2017 - 21.45.41.29.mp4[39m was successfully encoded and moved
+[2020-02-13_13:30:23] File is [32m23.00%%[39m of original file at [32m3.13 GB[39m
+[2020-02-13_13:30:23] Seconds to encode: 88820
+[2020-02-13_13:30:25] 
+
+[2020-02-13_13:30:25] 
+
+[2020-02-13_13:30:25] -------------------------------------
+[2020-02-13_13:30:25] Attempting to encode [33mCounter-strike  Global Offensive 07.24.2017 - 23.06.40.31.DVR.mp4[39m
+[2020-02-13_13:30:25] Filesize is [33m173.26 MB[39m
+[2020-02-13_13:37:37] [32mCounter-strike  Global Offensive 07.24.2017 - 23.06.40.31.DVR.mp4[39m was successfully encoded and moved
+[2020-02-13_13:37:37] File is [32m71.00%%[39m of original file at [32m123.75 MB[39m
+[2020-02-13_13:37:37] Seconds to encode: 432
+[2020-02-13_13:37:38] 
+
+[2020-02-13_13:37:38] 
+
+[2020-02-13_13:37:38] -------------------------------------
+[2020-02-13_13:37:38] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 21.18.11.20.DVR.mp4[39m
+[2020-02-13_13:37:38] Filesize is [33m796.50 MB[39m
+[2020-02-13_13:57:26] [32mCounter-strike  Global Offensive 07.25.2017 - 21.18.11.20.DVR.mp4[39m was successfully encoded and moved
+[2020-02-13_13:57:27] File is [32m25.00%%[39m of original file at [32m200.94 MB[39m
+[2020-02-13_13:57:27] Seconds to encode: 1189
+[2020-02-13_13:57:28] 
+
+[2020-02-13_13:57:28] 
+
+[2020-02-13_13:57:28] -------------------------------------
+[2020-02-13_13:57:28] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 21.18.43.23.DVR.mp4[39m
+[2020-02-13_13:57:28] Filesize is [33m171.09 MB[39m
+[2020-02-13_14:01:46] [32mCounter-strike  Global Offensive 07.25.2017 - 21.18.43.23.DVR.mp4[39m was successfully encoded and moved
+[2020-02-13_14:01:46] File is [32m25.00%%[39m of original file at [32m42.99 MB[39m
+[2020-02-13_14:01:46] Seconds to encode: 258
+[2020-02-13_14:01:46] 
+
+[2020-02-13_14:01:46] 
+
+[2020-02-13_14:01:46] -------------------------------------
+[2020-02-13_14:01:46] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 21.44.42.26.DVR.mp4[39m
+[2020-02-13_14:01:46] Filesize is [33m777.93 MB[39m
+[2020-02-13_14:05:03] Starting bash auto video encoder
+[2020-02-13_14:05:04] 
+
+[2020-02-13_14:05:04] -------------------------------------
+[2020-02-13_14:05:04] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 21.44.42.26.DVR.mp4[39m
+[2020-02-13_14:05:04] Filesize is [33m777.93 MB[39m
+[2020-02-13_14:10:03] Starting bash auto video encoder
+[2020-02-13_14:10:03] 
+
+[2020-02-13_14:10:03] -------------------------------------
+[2020-02-13_14:10:03] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 21.44.42.26.DVR.mp4[39m
+[2020-02-13_14:10:04] Filesize is [33m777.93 MB[39m
+[2020-02-13_14:12:38] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2020-02-13_14:12:38] [31mHANDBRAKE FAILURE[39m! Exit code: 143
+[2020-02-13_14:12:38] Moved [31mCounter-strike  Global Offensive 07.25.2017 - 21.44.42.26.DVR.mp4[39m to FAILED_DIR
+[2020-02-13_14:12:38] [32mCounter-strike  Global Offensive 07.25.2017 - 21.44.42.26.DVR.mp4[39m was successfully encoded and moved
+[2020-02-13_14:12:38] Seconds to encode: 154
+[2020-02-13_14:12:38] 
+
+[2020-02-13_14:12:38] 
+
+[2020-02-13_14:12:38] -------------------------------------
+[2020-02-13_14:12:38] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 22.14.51.29.DVR.mp4[39m
+[2020-02-13_14:12:38] Filesize is [33m277.70 MB[39m
+[2020-02-13_14:12:54] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2020-02-13_14:12:54] [31mHANDBRAKE FAILURE[39m! Exit code: 143
+[2020-02-13_14:12:54] Moved [31mCounter-strike  Global Offensive 07.25.2017 - 22.14.51.29.DVR.mp4[39m to FAILED_DIR
+[2020-02-13_14:12:54] [32mCounter-strike  Global Offensive 07.25.2017 - 22.14.51.29.DVR.mp4[39m was successfully encoded and moved
+[2020-02-13_14:12:54] Seconds to encode: 16
+[2020-02-13_14:12:54] 
+
+[2020-02-13_14:12:54] 
+
+[2020-02-13_14:12:54] -------------------------------------
+[2020-02-13_14:12:54] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 22.15.08.32.DVR.mp4[39m
+[2020-02-13_14:12:54] Filesize is [33m93.75 MB[39m
+[2020-02-13_14:13:47] !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2020-02-13_14:13:47] [31mHANDBRAKE FAILURE[39m! Exit code: 143
+[2020-02-13_14:13:47] Moved [31mCounter-strike  Global Offensive 07.25.2017 - 22.15.08.32.DVR.mp4[39m to FAILED_DIR
+[2020-02-13_14:13:47] [32mCounter-strike  Global Offensive 07.25.2017 - 22.15.08.32.DVR.mp4[39m was successfully encoded and moved
+[2020-02-13_14:13:47] Seconds to encode: 53
+[2020-02-13_14:13:47] 
+
+[2020-02-13_14:13:47] 
+
+[2020-02-13_14:13:47] -------------------------------------
+[2020-02-13_14:13:47] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 22.15.35.35.DVR.mp4[39m
+[2020-02-13_14:13:47] Filesize is [33m151.83 MB[39m
+[2020-02-13_20:15:03] Starting bash auto video encoder
+[2020-02-13_20:15:05] 
+
+[2020-02-13_20:15:05] -------------------------------------
+[2020-02-13_20:15:05] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 22.15.35.35.DVR.mp4[39m
+[2020-02-13_20:15:05] Filesize is [33m151.83 MB[39m
+[2020-02-13_21:20:54] Starting bash auto video encoder
+[2020-02-13_21:20:54] 
+
+[2020-02-13_21:20:54] -------------------------------------
+[2020-02-13_21:20:54] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 21.44.42.26.DVR.mp4[39m
+[2020-02-13_21:20:54] Filesize is [33m777.93 MB[39m
+[2020-02-13_21:21:04] Starting bash auto video encoder
+[2020-02-13_21:21:04] 
+
+[2020-02-13_21:21:04] -------------------------------------
+[2020-02-13_21:21:04] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 21.44.42.26.DVR.mp4[39m
+[2020-02-13_21:21:04] Warning!  An instance of HandBrakeCLI is already running!  Please exit HandBrakeCLI before starting bash_ave.sh
+[2020-02-13_21:21:35] Starting bash auto video encoder
+[2020-02-13_21:21:35] 
+
+[2020-02-13_21:21:35] -------------------------------------
+[2020-02-13_21:21:35] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 21.44.42.26.DVR.mp4[39m
+[2020-02-13_21:21:35] Warning!  An instance of HandBrakeCLI is already running!  Please exit HandBrakeCLI before starting bash_ave.sh
+[2020-02-13_21:23:00] Starting bash auto video encoder
+[2020-02-13_21:23:00] 
+
+[2020-02-13_21:23:00] -------------------------------------
+[2020-02-13_21:23:00] Attempting to encode [33mCounter-strike  Global Offensive 07.25.2017 - 21.44.42.26.DVR.mp4[39m
+[2020-02-13_21:23:00] [31mWarning!  An instance of HandBrakeCLI is already running![39m  Please exit HandBrakeCLI before starting bash_ave.sh
+[2020-02-13_21:24:16] ctrl-C pressed: killing program
+[2020-02-13_22:09:34] Starting bash auto video encoder
+[2020-02-13_22:10:52] Starting bash auto video encoder
+[2020-02-13_22:10:52] 
+
+[2020-02-13_22:10:52] -------------------------------------
+[2020-02-13_22:10:52] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:10:52] Filesize is [33m1.24 GB[39m
+[2020-02-13_22:11:03] Starting bash auto video encoder
+[2020-02-13_22:11:03] [31mWarning!  An instance of HandBrakeCLI is already running![39m  Please exit HandBrakeCLI before starting bash_ave.sh
+[2020-02-13_22:11:10] ctrl-C pressed: killing program
+[2020-02-13_22:11:13] Starting bash auto video encoder
+[2020-02-13_22:11:13] 
+
+[2020-02-13_22:11:13] -------------------------------------
+[2020-02-13_22:11:13] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:11:13] Input file already exists in output directory!
+[2020-02-13_22:11:13] Error moving file!  Exiting bash_ave.sh...
+[2020-02-13_22:11:32] Starting bash auto video encoder
+[2020-02-13_22:11:32] 
+
+[2020-02-13_22:11:32] -------------------------------------
+[2020-02-13_22:11:32] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:11:32] Input file already exists in output directory!
+[2020-02-13_22:11:32] Filesize is [33m1.24 GB[39m
+[2020-02-13_22:11:42] ctrl-C pressed: killing program
+[2020-02-13_22:14:16] Starting bash auto video encoder
+[2020-02-13_22:14:16] 
+
+[2020-02-13_22:14:16] -------------------------------------
+[2020-02-13_22:14:16] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:14:16] 31mInput file already exists in output directory!39m
+[2020-02-13_22:14:16] 31mMoving file from output directory into failed directory...39m
+[2020-02-13_22:14:16] Filesize is [33m1.24 GB[39m
+[2020-02-13_22:14:21] ctrl-C pressed: killing program
+[2020-02-13_22:14:21] 31mRemoving incomplete file from output directory...39m
+[2020-02-13_22:14:53] Starting bash auto video encoder
+[2020-02-13_22:14:53] 
+
+[2020-02-13_22:14:53] -------------------------------------
+[2020-02-13_22:14:53] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:14:53] Filesize is [33m1.24 GB[39m
+[2020-02-13_22:15:07] ctrl-C pressed: killing program
+[2020-02-13_22:15:07] [31mRemoving incomplete file from output directory...[39m
+[2020-02-13_22:16:49] Starting bash auto video encoder
+[2020-02-13_22:16:49] 
+
+[2020-02-13_22:16:49] -------------------------------------
+[2020-02-13_22:16:49] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:16:49] Filesize is [33m1.24 GB[39m
+[2020-02-13_22:16:53] ctrl-C pressed: killing program
+[2020-02-13_22:16:53] [31mRemoving incomplete file from output directory...[39m
+[2020-02-13_22:17:17] Starting bash auto video encoder
+[2020-02-13_22:17:17] 
+
+[2020-02-13_22:17:17] -------------------------------------
+[2020-02-13_22:17:17] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:17:17] Filesize is [33m1.24 GB[39m
+[2020-02-13_22:17:27] ctrl-C pressed: killing program
+[2020-02-13_22:17:27] [31mRemoving incomplete file from output directory...[39m
+[2020-02-13_22:18:58] Starting bash auto video encoder
+[2020-02-13_22:18:58] Checking RAW_FOOTAGE...
+[2020-02-13_22:18:58] Checking TO_REVIEW...
+[2020-02-13_22:18:58] Checking ENCODED_FOOTAGE...
+[2020-02-13_22:18:58] Checking FAILED...
+[2020-02-13_22:18:58] 
+
+[2020-02-13_22:18:58] -------------------------------------
+[2020-02-13_22:18:58] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:18:58] Filesize is [33m1.24 GB[39m
+[2020-02-13_22:19:18] ctrl-C pressed: killing program
+[2020-02-13_22:19:18] [31mRemoving incomplete file from output directory...[39m
+[2020-02-13_22:20:03] Starting bash auto video encoder
+[2020-02-13_22:20:03] Checking RAW_FOOTAGE...
+[2020-02-13_22:20:03] Checking TO_REVIEW...
+[2020-02-13_22:20:03] Checking ENCODED_FOOTAGE...
+[2020-02-13_22:20:03] Checking FAILED...
+[2020-02-13_22:20:03] 
+
+[2020-02-13_22:20:03] -------------------------------------
+[2020-02-13_22:20:03] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:20:03] Filesize is [33m1.24 GB[39m
+[2020-02-13_22:20:11] ctrl-C pressed: killing program
+[2020-02-13_22:20:11] [31mRemoving incomplete file from output directory...[39m
+[2020-02-13_22:20:14] Starting bash auto video encoder
+[2020-02-13_22:20:14] Checking RAW_FOOTAGE...
+[2020-02-13_22:20:14] Checking TO_REVIEW...
+[2020-02-13_22:20:14] Checking ENCODED_FOOTAGE...
+[2020-02-13_22:20:14] Checking FAILED...
+[2020-02-13_22:20:14] 
+
+[2020-02-13_22:20:14] -------------------------------------
+[2020-02-13_22:20:14] Attempting to encode [33mCounter-strike  Global Offensive 08.09.2017 - 23.12.14.28.DVR.mp4[39m
+[2020-02-13_22:20:14] [31mInput file already exists in output directory![39m
+[2020-02-13_22:20:14] [31mMoving file from output directory into failed directory...[39m
+[2020-02-13_22:20:14] Filesize is [33m1.24 GB[39m
+[2020-02-13_22:20:29] ctrl-C pressed: killing program
+[2020-02-13_22:20:29] [31mRemoving incomplete file from output directory...[39m

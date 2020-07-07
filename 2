@@ -1,0 +1,70 @@
+import time
+import sqlite3
+#import
+
+###Email commands###
+import smtplib
+import ssl
+
+###Email Settings###
+port = 587
+sender_email = "mrghorm@gmail.com"
+receiver_email = "mrghorm@gmail.com"
+password = "qyedcgjnfuaewcpj"
+message = """ """
+context = ssl.create_default_context()
+smtp_server = "smtp.gmail.com"
+
+###SQLite3###
+sqlconn = sqlite3.connect('bash_ave_mp.db')
+c = sqlconn.cursor()
+
+sqlconn2 = sqlite3.connect('bash_ave.db')
+c2 = sqlconn2.cursor()
+
+
+###PROGRAM SETTINGS###
+
+#How far back to pull values (in minutes)
+fetchtime = 0
+deltatime = 10
+deltatime_s = deltatime * 60
+
+
+###Get Time###
+sqlprogram = """
+SELECT
+	MAX(Time)
+FROM AVE_Temps
+"""
+
+fetchtime = c.execute(sqlprogram).fetchall()[0][0]
+
+time = fetchtime - deltatime_s
+
+temp_dict = {}
+
+for a in range(0,2):
+	for b in range(0,4):
+		temp_dict["{}{}".format(a,b)] = c.execute("SELECT MAX(Core{}_{}_Temp) FROM AVE_Temps WHERE Time > {}".format(a,b,time)).fetchall()[0][0]
+		#print("Adding data for {}{}".format(a,b))
+
+
+for i in temp_dict.values():
+	print(i)
+
+
+numfilesencoded = c.execute("SELECT COUNT(StartTime) FROM AVE_Log1 WHERE EndTime > {}".format(time)).fetchall()[0][0]
+totaldataraw = c.execute("SELECT SUM(StartSize) FROM AVE_Log1 WHERE EndTime > {}".format(time)).fetchall()[0][0]
+totaldataencoded = c.execute("SELECT SUM(EndSize) FROM AVE_Log1 WHERE EndTime > {}".format(time)).fetchall()[0][0]
+
+if numfilesencoded > 0:
+	print(numfilesencoded)	
+	try:
+		print((totaldataraw / 1000000000))
+		print((totaldataencoded / 1000000000))
+	except Error:
+		print("Error fetching data from database")
+
+else:
+	print("No files encoded in the last {} minutes".format(deltatime))
